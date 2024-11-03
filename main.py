@@ -16,4 +16,5 @@ params = {
 }
 
 stock_data.get_stock_data_normalized(ticker, days, max_val)
-newsdata.generate_newsdata(link, params)
+data = newsdata.generate_newsdata(link, params)
+
