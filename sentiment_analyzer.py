@@ -38,12 +38,16 @@ def map_sentiments(input_dict):
 data = map_sentiments(newsdata.generate_newsdata())
 
 def transform_to_array(avg_sentiment_dict=data):
-  sorted_values = [value for key, value in sorted(avg_sentiment_dict.items(), key=lambda item: datetime.strptime(item[0], '%Y-%m-%d'))]
+  sorted_values = [
+    value for key, value in sorted(avg_sentiment_dict.items(), key=lambda item: datetime.strptime(item[0], '%Y-%m-%d')) if datetime.strptime(key, '%Y-%m-%d').weekday() < 5
+  ]
+  return sorted_values
   
 # Then, we can compare this to the array of stock prices and create a plot
 # of stock price (y) vs sentiment (x) per each day. Then, find the correlation.
 def plot_and_find_correlation(avg_sentiments_dict=data, stock_data_array=stock_data.get_stock_data()):
   sentiments_array = transform_to_array(avg_sentiments_dict)
+  print("Sentiments Array: " + str(len(sentiments_array)) + ", Stock array: " + str(len(stock_data_array)))
   plt.scatter(sentiments_array, stock_data_array)
   plt.xlabel("Sentiment Score")
   plt.ylabel("Stock Value")
