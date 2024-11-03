@@ -16,13 +16,17 @@ params = {
 def generate_newsdata(url, parameters):
     response = requests.get(url, params=parameters)
     data = response.json()
+    
+    for article in data['articles']:
+        article['publishedAt'] = article['publishedAt'][:10]
 
     # Check if the request was successful
     if response.status_code == 200:
         # Print the entire JSON response
         with open('data.json', 'w') as outfile:
-            json.dump(response.json(), outfile, indent=4)
+            json.dump(data, outfile, indent=4)
     else:
         print(f"Error: {response.status_code}")
+    return data
 
-generate_newsdata(link, params)
+generate_newsdata(link,params)
