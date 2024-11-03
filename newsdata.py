@@ -5,7 +5,7 @@ import json
 
 link = 'https://newsapi.org/v2/everything'
 params = {
-    'q': "+trump -opinion",                # keyword or phrase to search for
+    'q': "+trump -opinion -kamala -harris -democrats -democrat -walz",                # keyword or phrase to search for
     'from': '2024-10-04',     # start date for the articles
     'sortBy': 'relevancy',    # sort articles by popularity, relevancy, or publishedAt
     'apiKey': 'e1fc83725afd4b75a0690f6253474549',
