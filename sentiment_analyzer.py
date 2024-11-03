@@ -1,5 +1,5 @@
 from transformers import pipeline
-import datetime
+from datetime import datetime
 import matplotlib.pyplot as plt
 import numpy as np
 import newsdata
@@ -13,8 +13,10 @@ def analyze_sentiment(sentence):
     # Perform sentiment analysis
     result = sentiment_analyzer(sentence)
     
+    score = result[0]['score']
+    
     # includes 'label' and 'score'
-    return result[0]
+    return score if result[0]['label'] == 'POSITIVE' else -score
 
 # Example usage
 # sentence = "hi!"
@@ -28,7 +30,7 @@ def analyze_sentiment(sentence):
 def map_sentiments(input_dict):
   result = {}
   for date, arr in input_dict.items():
-    total_sentiment = sum(analyze_sentiment(item)['score'] for item in arr)
+    total_sentiment = sum(analyze_sentiment(item) for item in arr)
     result[date] = total_sentiment / len(arr)
   return result
 
