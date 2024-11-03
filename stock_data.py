@@ -14,7 +14,7 @@ def get_stock_data(ticker = "DJT", num_days = 30, max_value = 1.0):
 
   # convert DataFrame to list
   closing_prices_list = np.ravel(stock_data["Close"].values.tolist())
-  print(closing_prices_list)
+  #print(closing_prices_list)
   
   result = []
   for i in range(len(closing_prices_list) - 1):
@@ -22,8 +22,8 @@ def get_stock_data(ticker = "DJT", num_days = 30, max_value = 1.0):
     result.append(float(diff))
   # closing_prices_list *= (max_value / closing_prices_list.max())
   
-  print('\n')
-  print(result)
+  #print('\n')
+  #print(result)
   return result 
 
 get_stock_data("DJT", 30, 1.0)
