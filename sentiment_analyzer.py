@@ -44,7 +44,10 @@ def transform_to_array(avg_sentiment_dict=data):
 # of stock price (y) vs sentiment (x) per each day. Then, find the correlation.
 def plot_and_find_correlation(avg_sentiments_dict=data, stock_data_array=stock_data.get_stock_data()):
   sentiments_array = transform_to_array(avg_sentiments_dict)
-  plt(sentiments_array, stock_data_array)
+  plt.scatter(sentiments_array, stock_data_array)
+  plt.xlabel("Sentiment Score")
+  plt.ylabel("Stock Value")
+  plt.title("Sentiment vs Stock Value Correlation")
   plt.show()
   return np.corrcoef(sentiments_array, stock_data_array)[0, 1]
   
