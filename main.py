@@ -1,27 +1,19 @@
-# import requests
-# from bs4 import BeautifulSoup
+import newsdata
+import stock_data
+import matplotlib
 
-# # Making a GET request
-# r = requests.get('https://www.geeksforgeeks.org/python-programming-language/')
+link = 'https://newsapi.org/v2/everything'
+ticker = "DJT"
+days = 30
+max_val = 1.0
 
-# # check status code for response received
-# # success code - 200
-# print(r)
+params = {
+    'q': 'trump',                # keyword or phrase to search for
+    'from': '2024-10-03',     # start date for the articles
+    'sortBy': 'publishedAt',    # sort articles by popularity, relevancy, or publishedAt
+    'apiKey': 'e1fc83725afd4b75a0690f6253474549',
+    'language': 'en'
+}
 
-# # print content of request
-# print(r.content)
-
-import requests
-from bs4 import BeautifulSoup
-
-
-# Making a GET request
-r = requests.get('https://www.geeksforgeeks.org/python-programming-language/')
-
-# Parsing the HTML
-soup = BeautifulSoup(r.content, 'html.parser')
-
-s = soup.find('div', class_='entry-content')
-content = s.find_all('p')
-
-print(content)
+stock_data.get_stock_data_normalized(ticker, days, max_val)
+newsdata.generate_newsdata(link, params)
