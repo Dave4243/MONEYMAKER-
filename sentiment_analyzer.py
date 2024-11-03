@@ -2,8 +2,6 @@ from transformers import pipeline
 from datetime import datetime
 import matplotlib.pyplot as plt
 import numpy as np
-import newsdata
-import stock_data
 
 # Load a sentiment-analysis pipeline from transformers
 sentiment_analyzer = pipeline("sentiment-analysis")
@@ -34,10 +32,6 @@ def map_sentiments(input_dict):
     result[date] = total_sentiment / len(arr)
   return result
 
-
-sentiment_data = map_sentiments(newsdata.generate_newsdata())
-stocks_data = stock_data.get_stock_data()
-
 def transform_to_array(avg_sentiment_dict):
   sorted_values = [
     value for key, value in sorted(avg_sentiment_dict.items(), key=lambda item: datetime.strptime(item[0], '%Y-%m-%d')) if datetime.strptime(key, '%Y-%m-%d').weekday() < 5
@@ -56,7 +50,7 @@ def plot_and_find_correlation(avg_sentiments_dict, stock_data_array):
   plt.show()
   return np.corrcoef(sentiments_array, stock_data_array)[0, 1]
 
-def print_correlation(sentiments=sentiment_data, stocks=stocks_data):
+def print_correlation(sentiments, stocks):
   print("Correlation: " + str(plot_and_find_correlation(sentiments, stocks)))
 
 # Even further, we could use a predictive model based on the data by calculating
