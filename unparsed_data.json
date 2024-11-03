@@ -1,7 +1,124 @@
 {
     "status": "ok",
-    "totalResults": 48510,
+    "totalResults": 20970,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Lawrence Bonk",
+            "title": "iOS 18.2 will include daily Sudoku puzzles for Apple News+ subscribers",
+            "description": "The long-anticipated iPhone iOS 18.1 officially launches next week\r\n, bringing with it Apple Intelligence\r\n, but we are already on to the next new thing. The company is busy preparing iOS 18.2\r\n, which has already entered its beta stage and should be widely r\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d792da3-893e-4d23-a5d9-4bce6937dc26",
+            "urlToImage": null,
+            "publishedAt": "2024-10-25",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Will Shanklin",
+            "title": "Apple Intelligence is coming to EU iPhones and iPads in April",
+            "description": "Folks in the European Union finally know when Apple Intelligence will be available on their mobile devices. Apple told EU users on Monday that its AI suite will arrive in April 2025. The first Apple Intelligence features, including Writing Tools and AI notifi\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9e418204-613e-41ea-849e-1acac15729e7",
+            "urlToImage": null,
+            "publishedAt": "2024-10-28",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-17",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Apple iPad Mini 2024 review: missing pieces",
+            "description": "It gets an A17 Pro chip, Apple Pencil support, and the ability to run Apple Intelligence. But it\u2019s hard to figure out why you\u2019d want this iPad over any other.",
+            "url": "https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/xUs9owo4ktDQ17MKWxO0VDatFAM=/0x0:4240x2832/1200x628/filters:focal(2337x1316:2338x1317)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg",
+            "publishedAt": "2024-10-22",
+            "content": "Apple\u2019s smallest tablet got an upgrade \u2014\u00a0but it won\u2019t feel like much of one unless Apple Intelligence is better than it seems. I should confess right up front that I have always loved the iPad Mini. \u2026 [+9782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-16",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-23",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Will Shanklin",
+            "title": "Everything Apple announced during its unofficial Mac Week",
+            "description": "Following the illustrious line of calendar-spanning corporate events like Lobsterfest and Shark Week, Apple tried something new this year with a celebration unofficially known as Mac Week. (Fortunately for Apple, it just so happens to coincide with its earnin\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c32e977d-97fc-463b-bc24-4576a92cbe19",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-28",
+            "content": "[Removed]"
+        },
         {
             "source": {
                 "id": null,
@@ -20,12 +137,12 @@
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Mariella Moon",
-            "title": "Blade Runner 2049 producer sues Elon Musk for image used in Cybercab launch",
-            "description": "When Elon Musk introduced Tesla's robotaxi, the Cybercab, earlier this month, he showed a slide during his presentation that probably looked familiar to Blade Runner 2049 fans. It featured the back of a person wearing a trench coat against a desert-like lands\u2026",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b877ae6-74d4-4a87-a926-ace1decc0ef7",
+            "author": "Kris Holt",
+            "title": "Apple unveils its top-of-the-line M4 Max chip",
+            "description": "Apple is continuing its week of announcements by revealing the latest MacBook Pro lineup, as well as its new top-of-the-line chip. The M4 Max has a 40-core GPU \u2014 double the number of cores found in the M4 Pro\r\n that the company revealed this week. It has a 16\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0158981c-d68b-4ed0-8507-1fdc9277bfed",
             "urlToImage": null,
-            "publishedAt": "2024-10-22",
+            "publishedAt": "2024-10-30",
             "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
         },
         {
@@ -33,806 +150,949 @@
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Danny Gallagher",
-            "title": "X\u2019s Community Notes feature has one job, and it\u2019s failing to do it",
-            "description": "It\u2019s no secret that X has become an even bigger cesspool of misleading information, unchecked claims and flat-out falsities since Elon Musk took over. Two new reports from The Center for Countering Digital Hate (CCDH) and The Washington Post reveals that the \u2026",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_51152d06-3544-4225-bbb9-3e792bc21690",
+            "author": "Billy Steele",
+            "title": "Apple Music helps artists turn concert set lists into playlists",
+            "description": "There's a certain level of fandom you hit when you research a band's tour set list before they come to your city. And some of us like to relive great concerts with some quick research on setlist.fm. The next logical step, once we're armed with this informatio\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7ea2282d-108d-445c-b4b9-8c1fd169551d",
             "urlToImage": null,
-            "publishedAt": "2024-10-30",
+            "publishedAt": "2024-10-17",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-25",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sarah Fielding",
+            "title": "The Apple Watch Series 10 is $30 off right now",
+            "description": "If you've been looking to upgrade your smartwatch, now might be the right time. Our favorite smartwatch, the Apple Watch Series 10, is currently on sale with the 42mm model down to $370 from $399 in Jet Black. The 46mm model is down to $399 from $429 and avai\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f526221b-5734-4c33-a38f-ebd9034bb694",
+            "urlToImage": null,
+            "publishedAt": "2024-10-24",
             "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Makena Kelly",
-            "title": "A Running List of the Tech CEOs Donald Trump Claims Are Calling Him to Suck Up",
-            "description": "Some of the most powerful people in Silicon Valley appear to be quietly sitting out the presidential election cycle. But Trump says that in private, it's a different story.",
-            "url": "https://www.wired.com/story/tech-ceos-trump-claims-are-courting-him/",
-            "urlToImage": "https://media.wired.com/photos/671f9d3d2c0fb6f2c687a28a/191:100/w_1280,c_limit/GettyImages-2176994436.jpg",
+            "author": "Kris Holt",
+            "title": "Apple Intelligence starts rolling out with iOS 18.1 and macOS 15.1",
+            "description": "The wait is finally over. Apple Intelligence is making its proper debut with the public releases of iOS 18.1, iPadOS 18.1 and macOS Sequoia 15.1. Typically, point-one versions of Apple operating systems add minor features and fix bugs, but the Apple Intellige\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6af3306f-73b8-42a8-8b5b-6114e6e7025e",
+            "urlToImage": null,
             "publishedAt": "2024-10-28",
-            "content": "With only a few days left until the US presidential election, Donald Trump is claiming that some of Silicon Valleys most powerful billionaires and tech leaders are seeking him out.\r\nMany of these lea\u2026 [+2154 chars]"
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "[Removed]"
             },
-            "author": "Joel Khalili",
-            "title": "Trumpcoin Launches With a Whimper",
-            "description": "Investors scooped up only a small number of the Trump family's new World Liberty Financial crypto tokens after website reliability issues interfered with a launch event.",
-            "url": "https://www.wired.com/story/trumpcoin-launches-with-a-whimper-not-a-bang/",
-            "urlToImage": "https://media.wired.com/photos/670fa4f537cad85df458a390/191:100/w_1280,c_limit/GettyImages-1300319936.jpg",
-            "publishedAt": "2024-10-16",
-            "content": "The Trump familys new crypto venture, World Liberty Financial, is off to an inauspicious start after website crashes limited the ability for investors to participate in an inaugural token sale event.\u2026 [+3643 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Vittoria Elliott",
-            "title": "Elon Musk's America PAC Has Created an Election Denial Cesspool on X",
-            "description": "The group has nearly 50,000 members, many enthusiastically sharing debunked claims about voting fraud. \u201cIt's just an election denier jamboree,\u201d says one expert.",
-            "url": "https://www.wired.com/story/elon-musk-america-pac-election-denial-community-x/",
-            "urlToImage": "https://media.wired.com/photos/6723d28fe9642f2551fc93df/191:100/w_1280,c_limit/musk-michigan-pol-1757147063.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "For months, billionaire and X owner Elon Musk has used his platform to share election conspiracy theories that could undermine faith in the outcome of the 2024 election. Last week, the political acti\u2026 [+2472 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Tess Owen",
-            "title": "Steve Bannon Is Out of Prison and Spreading Lies Online",
-            "description": "Within hours of being freed from a low-security prison where he\u2019d been serving time on contempt charges, the MAGA architect was rallying his troops on a Rumble stream.",
-            "url": "https://www.wired.com/story/steve-bannon-is-out-of-prison-and-spreading-lies-online/",
-            "urlToImage": "https://media.wired.com/photos/6720f83d6fc60e8791ee9510/191:100/w_1280,c_limit/GettyImages-1471048441%20(1).jpg",
-            "publishedAt": "2024-10-29",
-            "content": "Steve Bannon got out of federal prison at around 3 am Tuesday. Seven hours later, he was live on his War Room podcast to flood the zone with shit exactly one week before the presidential election.\r\nF\u2026 [+2778 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jake Lahut",
-            "title": "Elon Musk\u2019s America PAC Hit With Class Action Lawsuit",
-            "description": "Canvassers for California representative Michelle Steel are suing the congresswoman's campaign, America PAC, and others, alleging that they were promised hourly wages, then told pay would depend on how many doors they knocked.",
-            "url": "https://www.wired.com/story/elon-musk-america-pac-class-action-lawsuit/",
-            "urlToImage": "https://media.wired.com/photos/67254293a3ba4283003d2bc9/191:100/w_1280,c_limit/musk-pac-abuse-pol-2178881341.jpg",
-            "publishedAt": "2024-11-01",
-            "content": "Elon Musks America PAC and several other defendants, including the reelection campaign for Representative Michelle Steel, a Republican from California, are accused of violating California labor law i\u2026 [+3309 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Makena Kelly",
-            "title": "Ahead of the Election, Social Media Platforms Have Given Up",
-            "description": "If you thought 2020 was bad, decisions from Big Tech and the US government have led to an internet that\u2019s even worse off.",
-            "url": "https://www.wired.com/story/tech-companies-abdicated-responsibility-for-their-platforms/",
-            "urlToImage": "https://media.wired.com/photos/67216e155c751da78340bad9/191:100/w_1280,c_limit/Politics_newsletter_tech_platforms_election.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Our social media platforms and government have had four years to get this right. Instead, theyve thrown up their hands.\r\nIn the days following January 6, Meta, Twitter, YouTube, and Twitch suspended \u2026 [+2314 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dell Cameron, Tess Owen",
-            "title": "Judges and Border Police Targeted by Anti-Government Extremists, Doxed as 'Traitors'",
-            "description": "A report from the US Department of Homeland Security claims that self-identified militia members have posted the names and photos of US government officials in reaction to their work on the US-Mexico border.",
-            "url": "https://www.wired.com/story/judges-border-police-targeted-extremism/",
-            "urlToImage": "https://media.wired.com/photos/6712d8511ba4f640c938c381/191:100/w_1280,c_limit/Politics_border_GettyImages-2155724325.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "Earlier this year, the Supreme Courts ruling that the federal governmentnot Texas had ultimate authority over border enforcement led to a tense standoff, which turbocharged violent rhetoric and civil\u2026 [+3723 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Leah Feiger",
-            "title": "Will Elon Musk Tip the Election for Trump?",
-            "description": "The increasingly outspoken tech mogul spoke at a Trump rally this weekend in one of the most contested battleground states.",
-            "url": "https://www.wired.com/story/elon-musk-donald-trump-election/",
-            "urlToImage": "https://media.wired.com/photos/67041515cef303b0aeb7593a/191:100/w_1280,c_limit/PL-Elon-Trump-Rally-Politics.jpg",
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
             "publishedAt": "2024-10-10",
-            "content": "Leah Feiger: So Trump brings Musk out, he calls him a truly incredible guy. Musk literally jumps into the air on stage, in what was captured in honestly one of the cringiest photos that I've seen onl\u2026 [+2215 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Eric Geller",
-            "title": "How a Trump Win Could Unleash Dangerous AI",
-            "description": "Donald Trump's opposition to \u201cwoke\u201d safety standards for artificial intelligence would likely mean the dismantling of regulations that protect Americans from misinformation, discrimination, and worse.",
-            "url": "https://www.wired.com/story/donald-trump-ai-safety-regulation/",
-            "urlToImage": "https://media.wired.com/photos/6708161d6970c1949890b9bc/191:100/w_1280,c_limit/Security_Trump_AI_GettyImages-2176990947.jpg",
-            "publishedAt": "2024-10-21",
-            "content": "The reporting requirements are essential for alerting the government to potentially dangerous new capabilities in increasingly powerful AI models, says a US government official who works on AI issues\u2026 [+3559 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Makena Kelly",
-            "title": "Influencers Get Their Final Marching Orders for the Election",
-            "description": "The Trump and Harris campaigns have built huge networks of influencers and content creators. They have one last job\u2014getting people out to vote.",
-            "url": "https://www.wired.com/story/influencers-gop-and-democrats-ahead-of-election-day/",
-            "urlToImage": "https://media.wired.com/photos/67194aa038fa85cee9ab98a9/191:100/w_1280,c_limit/Politics_Newsletter_election_influencers.jpg",
-            "publishedAt": "2024-10-24",
-            "content": "Guerrero said that possible opportunities would be jumping on a campaign bus touring Las Vegas and speaking to voters about reproductive rights or to go door-knocking in battleground states. It sound\u2026 [+2575 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zach Dorfman",
-            "title": "The Untold Story of Trump's Failed Attempt to Overthrow Venezuela's President",
-            "description": "A successful CIA hack of Venezuela's military payroll system, insider fights for spy agency resources, and messy opposition politics: A WIRED investigation reveals a secret Trump-era attempt to oust autocratic ruler Nicol\u00e1s Maduro.",
-            "url": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-            "urlToImage": "https://media.wired.com/photos/67210d7362bc507a4f04fe8b/191:100/w_1280,c_limit/OPENING_FINAL_01_web.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "On September 26, 2018, Venezuelan president Nicol\u00e1s Maduro approached the lectern at the United Nations General Assembly in New York City. Hulking and mustachioed, wearing a black suit and a bright r\u2026 [+2585 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "James Fallows",
-            "title": "After the Election, California (Yes, That Hellscape) Will Keep Moving the World Forward No Matter What",
-            "description": "The state has been written off as a woke wasteland. But it's still inventing the future on a bunch of frontiers nobody's talking about. Even if Trump wins, it will remain a golden, global example.",
-            "url": "https://www.wired.com/story/california-will-keep-moving-the-world-forward/",
-            "urlToImage": "https://media.wired.com/photos/67210b73fdc82da59d1ddbb8/191:100/w_1280,c_limit/CAF_Lindsey_Price_FINAL.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Just take the area of gasoline-powered transportation. After World War II, when American car culture was famously getting minted in Southern California, the state used a gas tax hike to build out one\u2026 [+5644 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jake Lahut",
-            "title": "Workers Say They Were Tricked and Threatened as Part of Elon Musk\u2019s Get-Out-the-Vote Effort",
-            "description": "America PAC door knockers were flown to Michigan, driven in the back of a U-Haul, and told they\u2019d have to pay hotel bills unless they met unrealistic quotas. One was surprised they were working to elect Donald Trump.",
-            "url": "https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/",
-            "urlToImage": "https://media.wired.com/photos/6722954ed6b40c64697ec88b/191:100/w_1280,c_limit/musk-voter-intimidation-pol-2180560863.jpg",
-            "publishedAt": "2024-10-30",
-            "content": "The video from inside the van shows a bumpy ride, with a cage separating the mostly Black door knockers from their driver. The driver also told the group of door knockers that he was in pain and had \u2026 [+1636 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "David Gilbert",
-            "title": "A Russian Disinfo Campaign Is Using Comment Sections to Seed Pro-Trump Conspiracy Theories",
-            "description": "A disinformation campaign is using the unmoderated spaces of right-wing news website comment sections to push their narratives.",
-            "url": "https://www.wired.com/story/russia-disinfo-campaign-right-wing-comment-sections-pro-trump/",
-            "urlToImage": "https://media.wired.com/photos/6723b444b2d0f9dc9309d32d/191:100/w_1280,c_limit/disinfo-russia-dailymail-pol.jpg",
-            "publishedAt": "2024-11-01",
-            "content": "Video has come out from Bucks County, Pennsylvania showing a ballot counter destroying ballots for Donald Trump and keeping Kamala Harris's ballots for counting, an account called Dan from Ohio wrote\u2026 [+2408 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "WIRED Staff",
-            "title": "Will Your Elected Officials in Congress Accept the Results of the Election?",
-            "description": "We\u2019ve asked every member of Congress whether they\u2019ll accept the results as called by the Associated Press. Use our tool to see how your representatives answer.",
-            "url": "https://www.wired.com/story/congress-accept-election-results/",
-            "urlToImage": "https://media.wired.com/photos/67226f2226693bf18984e220/191:100/w_1280,c_limit/Congressman.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "We are in the final days of a momentous presidential election between Kamala Harris and Donald Trump. Do you know whether your elected officials will accept the outcome?\r\nWIRED reached out to every s\u2026 [+3156 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jake Lahut",
-            "title": "Donald Trump's Ground Game in Michigan Is Mostly Glitchy Apps and Vibes",
-            "description": "\"It\u2019s what happens when you let a bunch of grifters take over,\u201d a Trumpworld source said. Still, the polls remain even.",
-            "url": "https://www.wired.com/story/donald-trump-kamala-harris-michigan/",
-            "urlToImage": "https://media.wired.com/photos/671ba4c10ba4fb162cf0b269/191:100/w_1280,c_limit/trump-michigan-2162827597.jpg",
-            "publishedAt": "2024-10-30",
-            "content": "I think its what happens when you let a bunch of grifters take over, a Trumpworld source said of Musks seat-of-the-pants operation, requesting anonymity to speak candidly about internal discussions o\u2026 [+2287 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Tess Owen",
-            "title": "Election Violence Is Already Here",
-            "description": "With bombs, brawls, and stolen mail-in ballots already in play, the 2024 election is shaping up to be exceptionally chaotic. WIRED is tracking these incidents as they unfold.",
-            "url": "https://www.wired.com/story/election-violence-is-already-here/",
-            "urlToImage": "https://media.wired.com/photos/67214e475c751da78340bad5/191:100/w_1280,c_limit/vote-violence-interference-pol.jpg",
-            "publishedAt": "2024-11-01",
-            "content": "A man in a white van circled an early voting site in Loxahatchee, Florida, and shouted antisemitic and racist slurs at a group of people campaigning outside. A man who went to vote in Orangeburg, Sou\u2026 [+6546 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Tess Owen, Dell Cameron",
-            "title": "US Intel Says Insider Threats Are 'Likely' During the Election",
-            "description": "A government memo viewed by WIRED states that insider threats \u201ccould derail or jeopardize a fair and transparent election process.\u201d",
-            "url": "https://www.wired.com/story/insider-threats-election/",
-            "urlToImage": "https://media.wired.com/photos/671bd7741b81965dc9ebb535/191:100/w_1280,c_limit/election_threats_pol.jpg",
-            "publishedAt": "2024-10-28",
-            "content": "Insider threats will likely be an issue that election centers across the US will face in the coming weeks, according to a US intelligence memo viewed by WIRED. These threats, the memo warns, could de\u2026 [+2354 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "David Gilbert",
-            "title": "Neo-Nazis Are Fleeing Telegram for Encrypted App SimpleX Chat",
-            "description": "Neo-Nazis are joining SimpleX Chat, a relatively unknown app that received funding from Jack Dorsey and promises users there is no way for it or law enforcement to track their identity.",
-            "url": "https://www.wired.com/story/neo-nazis-flee-telegram-encrypted-app-simplex/",
-            "urlToImage": "https://media.wired.com/photos/66fefb7d50458ad7cb0b322d/191:100/w_1280,c_limit/neonazi-telegram-pol-97709565.jpg",
-            "publishedAt": "2024-10-04",
-            "content": "Dozens of neo-Nazis are fleeing Telegram and moving to a relatively unknown secret chat app that has received funding from Twitter founder Jack Dorsey.\r\nIn a report from the Institute for Strategic D\u2026 [+3276 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "This election will decide what kind of car you\u2019ll buy",
-            "description": "Trump has promised to roll back Biden\u2019s EV policies on \u201cday one,\u201d while Harris has avoided wading into the bizarre politicization of electric vehicles.",
-            "url": "https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5tWXMR03EV5rosVgDROFgGf6i2Q=/0x0:2040x1360/1200x628/filters:focal(1455x544:1456x545)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693277/247224_Election_Package__Mr.Nelson_design_EVs.jpg",
-            "publishedAt": "2024-10-29",
-            "content": "Trump has promised to roll back Bidens EV policies on day one.\r\nByAndrew J. Hawkins, transportation editor with 10+ years of experience who covers EVs, public transportation, and aviation. His work h\u2026 [+8754 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elizabeth Lopatto",
-            "title": "The future of crypto regulation comes down to one unpopular man",
-            "description": "As part of his overtures to the crypto industry, Donald Trump has promised to fire embattled SEC chair Gary Gensler on \u2018day one.\u2019",
-            "url": "https://www.theverge.com/24280387/gary-gensler-sec-chair-presidential-election-2024",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tbPUbEarve3IQVCN6dBJXVrZR_k=/0x0:2040x1360/1200x628/filters:focal(1146x421:1147x422)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693278/247224_Election_Package__Mr.Nelson_design_Gensler.jpg",
-            "publishedAt": "2024-10-29",
-            "content": "Heres why the embattled SEC chair is a hot-button presidential issue.\r\nByElizabeth Lopatto, a reporter who writes about tech, money, and human behavior. She joined The Verge in 2014 as science editor\u2026 [+13909 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "The Verge Staff",
-            "title": "The Verge\u2019s guide to the 2024 presidential election",
-            "description": "Vice President Kamala Harris is taking on former President Donald Trump. The election will determine the future of everything from electric cars to the entire legal system to to our democracy itself.",
-            "url": "https://www.theverge.com/24279527/2024-presidential-election-guide-tech-policy",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/xG8M1zPOXmzE0IyEhJkVRhrpB_Y=/0x0:2040x1360/1200x628/filters:focal(1105x362:1106x363)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693279/247224_Election_Package__Mr.Nelson_design_HUB.jpg",
-            "publishedAt": "2024-10-29",
-            "content": "A presidential campaign is an expression of ideology, often vocalized as a number of promises. Sometimes, those promises are made even when theyre outside the scope of what a president can enact. Wit\u2026 [+1159 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "FCC chair rejects Trump\u2019s call to revoke CBS license over Harris interview edit",
-            "description": "The Federal Communications Commission rejected Trump\u2019s call to revoke CBS\u2019s broadcast license due to sharing two edits of Harris\u2019 response to an interview question.",
-            "url": "https://www.theverge.com/2024/10/10/24267054/fcc-chair-rosenworcel-trump-harris-60-minutes-cbs-license",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/R0TqwDHH6tJjdQ_ZIWeCZ1cnU08=/0x0:4000x2667/1200x628/filters:focal(2000x1334:2001x1335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25669542/2170653437.jpg",
-            "publishedAt": "2024-10-10",
-            "content": "FCC chair rejects Trumps call to revoke CBS license over Harris interview edit\r\nFCC chair rejects Trumps call to revoke CBS license over Harris interview edit\r\n / CBS shared two different versions of\u2026 [+2004 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Gaby Del Valle",
-            "title": "Trump\u2019s crypto website crashed after its token went on sale",
-            "description": "A co-founder of World Liberty Financial, Trump\u2019s decentralized finance platform, claimed more than 100,000 accredited investors signed up for the whitelist, but most haven\u2019t bought the token.",
-            "url": "https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/VnGw9t2CWLMuJgal2cKUuFGoEfU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951553/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg",
-            "publishedAt": "2024-10-15",
-            "content": "Trumps crypto website crashed after its token went on sale\r\nTrumps crypto website crashed after its token went on sale\r\n / Only two percent of the 20 billion tokens available for public sale have bee\u2026 [+2659 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "The bill finally comes due for Elon Musk",
-            "description": "Tesla CEO Elon Musk is finally forced to stop hiding behind his bluster and show off a real autonomous vehicle. Anything less would be a disaster.",
-            "url": "https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/UTFYAIWx1CsXE6oKzXfSIOu2rXQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25663397/STKE001_STK086_Tesla_Robotaxi_D.jpg",
-            "publishedAt": "2024-10-09",
-            "content": "Image: Cath Virginia / The Verge, Turbosquid\r\n\n \n\n\n The Tesla CEO has long promised \u2014 and failed to deliver \u2014\u00a0a fully autonomous vehicle. With this week\u2019s robotaxi reveal, his time is up. For almost \u2026 [+16028 chars]"
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "[Removed]"
             },
-            "author": "Matthew Gault",
-            "title": "Elon Musk Leaps Into the Meme History Books at Trump Rally",
-            "description": "Two photos from the event where Musk stumped for Trump became iconic fodder for the internet.",
-            "url": "https://gizmodo.com/elon-musk-leaps-into-the-meme-history-books-at-trump-rally-2000508235",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskLeaping.jpg",
-            "publishedAt": "2024-10-07",
-            "content": "October has already been full of surprises this election cycle. But when Elon Musk announced he would join Donald Trump on stage Saturday at a rally in Butler, Pennsylvania, no one expected the billi\u2026 [+2154 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Why Are Trump Supporters Suddenly Freaked Out About Deepfakes?",
-            "description": "Trump has previously called real videos of himself doing something embarrassing \"fake\" or AI.",
-            "url": "https://gizmodo.com/why-are-trump-supporters-suddenly-freaked-out-about-deepfakes-2000515776",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/trump-gestures.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "Right-wing influencers took to social media Tuesday and Wednesday to warn about future deepfakes that could emerge of Donald Trump. And all of the chatter has caused people to become very suspicious \u2026 [+5200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Polymarket Is Looking Into Its Big Trump Bettors",
-            "description": "Recent, weirdly large pro-Trump bets have caught the attention of the platform's executives.",
-            "url": "https://gizmodo.com/polymarket-is-looking-into-its-big-trump-bettors-2000515321",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/A-Polymarket-advertisement-in-Brooklyn.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "Polymarket, the platform that allows web users to earn or burn cash via political bets, got spanked by a federal regulator two years ago, which accused it of providing illegal trading services. Since\u2026 [+2793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Trump Supporters\u2019 Fake Stories About Harris and Walz Flood the \u2018For You\u2019 Page on X",
-            "description": "X has truly become a garbage heap since Trump donor Elon Musk bought the site.",
-            "url": "https://gizmodo.com/trump-supporters-fake-stories-about-harris-and-walz-flood-the-for-you-page-on-x-2000514522",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/trump-mcdonalds-pennsylvania.jpg",
-            "publishedAt": "2024-10-21",
-            "content": "The 2024 presidential campaign has been awash with fake stories about Vice President Kamala Harris and her running mate Tim Walz in recent months, all spread by supporters of Donald Trump. But nowher\u2026 [+9189 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "Trump Spends 39 Minutes on Stage Listening to His Beloved Spotify Playlist",
-            "description": "After two people in the crowd fainted, Trump decided to turn his latest rally into a 'music fest.'",
-            "url": "https://gizmodo.com/trump-spends-39-minutes-on-stage-listening-to-his-beloved-spotify-playlist-2000511970",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/TrumpVibing.jpg",
-            "publishedAt": "2024-10-15",
-            "content": "The Doobie Brothers sang Listen to the music as the crowd shuffled into the town hall last night at Oaks, Pennsylvania. It was a prophetic tune. Following two medical emergencies in the crowd, Trump \u2026 [+2280 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Elon Tempts Fate With Dominion Voting Conspiracy Theory",
-            "description": "During a stopover for Trump in the pivotal swing state of Pennsylvania, Musk seemed to gesture at debunked conspiracy theories.",
-            "url": "https://gizmodo.com/elon-tempts-fate-with-dominion-voting-conspiracy-theory-2000513677",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Elon-Musk-at-a-town-hall-in-Folsom-Pennsylvania.jpg",
-            "publishedAt": "2024-10-18",
-            "content": "Elon Musk has been campaigning hard for Donald Trump, in an effort to get his fellow billionaire re-elected President. A big part of Musk\u2019s political strategy thus far has been to rile up conservativ\u2026 [+3968 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "MAGA Faithful Say McDonald\u2019s E. Coli Outbreak Is a Conspiracy to Hurt Trump",
-            "description": "\"I think this was orchestrated by deep state Harris supporters after Trump\u2019s visit to McDonald\u2019s,\" one Trump supporter wrote.",
-            "url": "https://gizmodo.com/maga-faithful-say-mcdonalds-e-coli-outbreak-is-a-conspiracy-to-hurt-trump-2000515385",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/trump-mcdonalds.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "The CDC warned consumers about a dangerous E. coli outbreak tied to McDonald\u2019s Quarter Pounders on Tuesday, which has killed one person, hospitalized 10, and sickened dozens more. It\u2019s a frightening \u2026 [+5947 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Elon Musk Keeps Saying Trump Will Tank the Economy",
-            "description": "A strange tactic to take a week before an election, to say the least.",
-            "url": "https://gizmodo.com/elon-musk-keeps-saying-trump-will-tank-the-economy-2000518006",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Elon-Musk-speaks-at-Trumps-Madison-Square-Garden-rally.jpg",
-            "publishedAt": "2024-10-29",
-            "content": "Top economists and assorted financial experts have been sounding the alarm that Donald Trump\u2019s plans for a second presidential administration would spike the federal deficit by trillions of dollars, \u2026 [+6386 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "With Putin Calls, It\u2019s More Clear Than Ever That Elon Musk Is a National Security Threat",
-            "description": "The billionaire has been chatting with Russia's authoritarian leader for years while he stumps for Trump and commands huge government contracts.",
-            "url": "https://gizmodo.com/with-putin-calls-its-more-clear-than-ever-that-elon-musk-is-a-national-security-threat-2000516544",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskAmerica.jpg",
-            "publishedAt": "2024-10-25",
-            "content": "Its been a wild few days for tech billionaire Elon Musk. On Wednesday, the Justice Department warned him that his $1 million giveaway to swing state voters might be illegal. And then on Thursday The \u2026 [+4898 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Donald Trump\u2019s iPhone Wallpaper Is Just a Photo of Himself",
-            "description": "Trump's narcissism knows no bounds.",
-            "url": "https://gizmodo.com/donald-trumps-iphone-wallpaper-is-just-a-photo-of-himself-2000515029",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/trump-wallpaper-himself-top.jpg",
-            "publishedAt": "2024-10-22",
-            "content": "It\u2019s no secret that Donald Trump is a big fan of himself. Countless mental health professionals, and even fellow Republicans, have diagnosed the former president as a raging narcissist. But new photo\u2026 [+6025 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "$30 Million Is All It Took to Shift the Odds in Trump\u2019s Favor on Polymarket",
-            "description": "The huge buy is further proof that predictive betting sites are only a reflection of what degenerate gamblers are willing to spend.",
-            "url": "https://gizmodo.com/30-million-is-all-it-took-to-shift-the-odds-in-trumps-favor-on-polymarket-2000513653",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Trump2.jpg",
-            "publishedAt": "2024-10-18",
-            "content": "Four different accounts have pumped $30 million into the betting site Polymarket, swaying the sites prediction in favor of a Trump victory. The two candidates have been neck and neck since Harris ent\u2026 [+2357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Elon Musk Donates $75 Million to His Own Pro-Trump Group",
-            "description": "The Tesla CEO called his PAC \"centrist\" because you can just say whatever you want on the internet.",
-            "url": "https://gizmodo.com/elon-musk-donates-75-million-to-his-own-pro-trump-group-2000512332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/musk-trump-and-vance-in-pennsylvania.jpg",
-            "publishedAt": "2024-10-16",
-            "content": "Elon Musk, a far-right influencer who also happens to be one of the wealthiest people in the world, formed a political action committee in May called America PAC, a group dedicated to re-electing for\u2026 [+8795 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Google Searches for Comedian Who Told Racist Jokes at Trump Rally Surpass Taylor Swift",
-            "description": "Who is Tony Hinchcliffe?",
-            "url": "https://gizmodo.com/google-searches-for-comedian-who-told-racist-jokes-at-trump-rally-surpass-taylor-swift-2000517557",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Comedian-Tony-Hinchcliffe-performs-at-Trump-rally-at-Madison-Square-Garden.jpg",
-            "publishedAt": "2024-10-28",
-            "content": "Not long after comedian Tony Hinchcliffe appeared at Donald Trump\u2019s massive Madison Square Garden rally this weekend and called Puerto Rico an \u201cisland of floating garbage,\u201d the internet came alive wi\u2026 [+5350 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Trump Fans Go Viral With Bizarre Conspiracy Theories About Hurricane Milton",
-            "description": "The website formerly known as Twitter is a hotbed of far-right disinformation on the category 5 storm.",
-            "url": "https://gizmodo.com/trump-fans-go-viral-with-bizarre-conspiracy-theories-about-hurricane-milton-2000508360",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/treasure-island-hurricane-milton-upside-down-flag-oct-7-2024.jpg",
-            "publishedAt": "2024-10-07",
-            "content": "Hurricane Milton became a category 5 storm on Monday and is on track to hit the west coast of Florida on Wednesday afternoon or evening. The hurricane is unusual for both its trajectory and rapid int\u2026 [+8402 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "Musk Screams at Trump Rally as Philly DA Sues to Stop $1 Million Voter Giveaway",
-            "description": "The lawsuit is the first official legal action against the billionaire's election lottery scheme.",
-            "url": "https://gizmodo.com/musk-screams-at-trump-rally-as-philly-da-sues-to-stop-1-million-voter-giveaway-2000517357",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskScream.jpg",
-            "publishedAt": "2024-10-28",
-            "content": "On Sunday night, billionaire Elon Musk did two pathetic little Dean Screams for a crowd of MAGA voters in Madison Square Garden. On Monday morning, Philadelphia District Attorney Larry Krasner filed \u2026 [+2631 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Trump Media Execs Reportedly Quit Amid Complaints About CEO Devin Nunes",
-            "description": "Allegations surrounding \"misuse of funds, hiring of foreign contractors and interfering with product development\" are flying.",
-            "url": "https://gizmodo.com/trump-media-execs-reportedly-quit-amid-complaints-about-ceo-devin-nunes-2000507581",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/devin-nunes-donald-trump-july-17-2024.jpg",
-            "publishedAt": "2024-10-04",
-            "content": "At least four employees at Donald Trump\u2019s media company Trump Media &amp; Technology Group, which owns Truth Social, have left the company recently according to a new report from ProPublica, The news\u2026 [+4426 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Elon Musk Says He Might Get Thrown in Jail If Trump Doesn\u2019t Win",
-            "description": "Musk also claimed liberal states were \"making crime legal\" during an interview with Tucker Carlson.",
-            "url": "https://gizmodo.com/elon-musk-says-he-might-get-thrown-in-jail-if-trump-doesnt-win-2000508695",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/elon-musk-tucker-carlson-oct-7-2024.jpg",
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
             "publishedAt": "2024-10-08",
-            "content": "Elon Musk, the world\u2019s richest person, appeared on a new episode of Tucker Carlson\u2019s web video show Monday in an almost two-hour interview. Musk made false claims about undocumented immigrants voting\u2026 [+13794 chars]"
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kyle Orland, Ars Technica",
+            "title": "Apple Engineers Show How Flimsy AI \u2018Reasoning\u2019 Can Be",
+            "description": "The new frontier in large language models is the ability to \u201creason\u201d their way through problems. New research from Apple says it's not quite what it's cracked up to be.",
+            "url": "https://www.wired.com/story/apple-ai-llm-reasoning-research/",
+            "urlToImage": "https://media.wired.com/photos/670eb29ca88ac76b34d258c1/191:100/w_1280,c_limit/apple-llm-fail-biz.jpg",
+            "publishedAt": "2024-10-15",
+            "content": "For a while now, companies like OpenAI and Google have been touting advanced \"reasoning\" capabilities as the next big step in their latest artificial intelligence models. Now, though, a new study fro\u2026 [+4477 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Tom Maxwell",
-            "title": "Jeff Bezos Reportedly Stops Washington Post From Making a Presidential Endorsement",
-            "description": "Newspaper endorsements don't matter much, it's the principle of management stopping them that matters.",
-            "url": "https://gizmodo.com/jeff-bezos-reportedly-stops-washington-post-from-making-a-presidential-endorsement-2000516623",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2172039969.jpg",
-            "publishedAt": "2024-10-25",
-            "content": "The Washington Post won\u2019t make an endorsement for president this year. Ben Mullin from the New York Times first reported the news, which was confirmed by CEO Will Lewis shortly thereafter.\r\nThe annou\u2026 [+4594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom Maxwell",
-            "title": "Justice Department Warns Elon Musk That His $1 Million Voter Giveaway Might Be Illegal",
-            "description": "Another legal issue to toss into the pile that he'll just ignore.",
-            "url": "https://gizmodo.com/justice-department-warns-elon-musk-that-his-1-million-voter-giveaway-might-be-illegal-2000515756",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2178881753.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "It seems that the Justice Department is exploring the legality of Elon Musk\u2019s gambit to give away a million dollars every day to registered voters who sign a petition in supporting of the First and S\u2026 [+3290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Dems Launch Taylor Swift Snapchat Filter to Target Young Voters for Kamala Harris",
-            "description": "The campaign pushes users to IWillVote.com to make sure they're registered.",
-            "url": "https://gizmodo.com/dems-launch-taylor-swift-snapchat-filter-to-target-young-voters-for-kamala-harris-2000513374",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/taylor-swift-snapchat-filters.jpg",
-            "publishedAt": "2024-10-18",
-            "content": "The Democratic National Committee announced a new campaign Friday morning targeting youth voters and fans of Taylor Swift, the biggest pop star in the world right now, with the hopes of turning out m\u2026 [+3301 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Scammy Ads on Facebook and Instagram Viewed 900 Million Times: Report",
-            "description": "What a garbage heap.",
-            "url": "https://gizmodo.com/scammy-ads-on-facebook-and-instagram-viewed-900-million-times-report-2000518931",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/mark-zuckberberg-getty.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Facebook, an internet machine that turns lies into money, is absolutely swimming in scammers who buy ads with political messages, according to a new report from ProPublica. The fact that Meta\u2019s platf\u2026 [+4950 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Colin Lecher and Tomas Apodaca",
-            "title": "How Meta Brings in Millions Off of Political Violence",
-            "description": "CalMatters and The Markup used Facebook\u2019s AI model to count the millions of dollars it makes after violent news events.",
-            "url": "https://gizmodo.com/how-meta-brings-in-millions-off-of-political-violence-2000511364",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2170596427.jpg",
-            "publishedAt": "2024-10-14",
-            "content": "After the attempted assassination of Donald Trump in July, the merchandise started showing up on Facebook.\r\nTrump, fist in the air, face bloodied from a bullet, appeared on everything. Coffee mugs. H\u2026 [+13056 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Justice Department Says It Has Received Complaints About Elon Musk\u2019s $1 Million Payments to Voters",
-            "description": "Is the tech billionaire breaking the law? We may soon find out.",
-            "url": "https://gizmodo.com/justice-department-says-it-has-received-complaints-about-elon-musks-1-million-payments-to-voters-2000515069",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Elon-Musk-holds-at-town-hall-in-Folsom-Pennsylvania.jpg",
-            "publishedAt": "2024-10-22",
-            "content": "Despite the fact that, in the U.S., it is illegal to pay someone to vote, not vote, or register to vote, Elon Musk has been making it rain on the American electorate. It all started approximately two\u2026 [+4167 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "Elon Musk Is Trying to Be the MrBeast of Politics",
-            "description": "The billionaire is giving away $1 million a day to registered voters. The lottery is the next evolution of politics as entertainment in America.",
-            "url": "https://gizmodo.com/elon-musk-is-trying-to-be-the-mrbeast-of-politics-2000514361",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskCheck.jpg",
-            "publishedAt": "2024-10-21",
-            "content": "When I imagine the future of American politics I see Elon Musks grinning face as he gives away a million bucks on stage before a crowd of clapping people. Musk is approaching politics the way a YouTu\u2026 [+4225 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom Maxwell",
-            "title": "Elon Musk Appears to Have Stopped His $1 Million Voter Giveaway",
-            "description": "Voter registration has closed in Pennsylvania anyway, so he probably doesn't feel a need to keep doing it.",
-            "url": "https://gizmodo.com/elon-musk-appears-to-have-stopped-his-1-million-voter-giveaway-2000516254",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2178881713.jpg",
-            "publishedAt": "2024-10-24",
-            "content": "Elon Musk\u2019s PAC has been giving away $1 million every day to registered voters in swing states who sign a petition supporting the First and Second Amendments. But it was reported yesterday that the J\u2026 [+2058 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "Meta Bans Accounts Tracking Private Jets of Celebs and Russian Oligarchs",
-            "description": "The social media giant banned dozens of accounts that posting publicly available information, citing the harm they posed to celebrities.",
-            "url": "https://gizmodo.com/meta-bans-accounts-tracking-private-jets-of-celebs-and-russian-oligarchs-2000514958",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MarkZuckerberg.jpg",
-            "publishedAt": "2024-10-22",
-            "content": "On Monday, Meta banned dozens of accounts that report publicly available information tracking the jets of celebrities on Instagram and Threads. It banned a total of 38 accounts run by Jack Sweeney, a\u2026 [+2852 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Harri Weber",
-            "title": "Supreme Court Snubs Martin Shkreli\u2019s Last-Ditch Bid to Avoid $64 Million Fine",
-            "description": "There were no generic alternatives to a lifesaving drug when Shkreli jacked up its price by more than $700 per pill in 2015.",
-            "url": "https://gizmodo.com/supreme-court-snubs-martin-shkrelis-last-ditch-bid-to-avoid-64-million-fine-2000508300",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/martin-shkreli-trial.jpg",
+            "author": "Gizmodo Deals",
+            "title": "Prime Day Deal: AirPods Pro 2 Hit All-Time Low as Amazon Cuts All its Profit Margin",
+            "description": "Apple will never offer such a discount in its Apple Stores.",
+            "url": "https://gizmodo.com/prime-day-deal-airpods-pro-2-hit-all-time-low-as-amazon-cuts-all-its-profit-margin-2000508062",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-pro-2.jpg",
             "publishedAt": "2024-10-07",
-            "content": "Martin Shkreli has been fighting a $64.6 million fine he acquired in 2022 for blocking affordable alternatives to Daraprim, a lifesaving antiparasitic drug. Shockingly, it turns out nobody on the Sup\u2026 [+1767 chars]"
+            "content": "Apple\u2019s AirPods Pro 2 have become the talk of the town during this year\u2019s Prime Day event with Amazon offering an breathtaking discount on these premium wireless earbuds. Initially priced at $249, Am\u2026 [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-28",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Christopher Null",
+            "title": "Apple AirPods Pro 2 With Hearing Aid Feature Review: A Promising Step",
+            "description": "Apple takes on hearing loss, and its first product is a big step in the right direction.",
+            "url": "https://www.wired.com/review/apple-airpods-pro-2-with-hearing-aid-feature/",
+            "urlToImage": "https://media.wired.com/photos/671577232009d044328f83e0/191:100/w_1280,c_limit/AirPods%20Pro%202%20Abstract%20Background%20102024%20SOURCE%20Apple.jpg",
+            "publishedAt": "2024-10-21",
+            "content": "You can make some of these adjustments by manipulating the stems of the earbuds, which now have even more functions to master. These hardware operations can be finicky, and in almost every situation,\u2026 [+1764 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Matt Novak",
-            "title": "Elon Musk Hilariously Claims Tesla Cybercab Will Be Available In 2-3 Years",
-            "description": "The billionaire has made these kinds of promises before. Many times.",
-            "url": "https://gizmodo.com/elon-musk-hilariously-claims-tesla-cybercab-will-be-available-in-2-3-years-2000510844",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tesla-robotaxi-cycbercab-1024x576.gif",
-            "publishedAt": "2024-10-11",
-            "content": "Elon Musk unveiled Tesla\u2019s autonomous robotaxi, now known as the Cybercab, at the Warner Bros. studio in Burbank, California on Thursday night. And tell me if you\u2019ve heard this one before, but the bi\u2026 [+7855 chars]"
+            "author": "Kyle Barr",
+            "title": "Apple Intelligence Isn\u2019t Driving iPhone 16 Sales the Way Apple Hoped, Analyst Says",
+            "description": "An analyst claims Apple cut production for 10 million iPhone 16 units, despite Apple Intelligence's full launch next year.",
+            "url": "https://gizmodo.com/apple-intelligence-iphone-16-sales-2000515926",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/iPhone-16-Review-Hero.jpg",
+            "publishedAt": "2024-10-24",
+            "content": "The baseline iPhone 16 is already the most capable Apple non-Pro smartphone ever. It has all the same extra buttons, like Camera Control and the Action Button, that the iPhone 16 Pro has. It can capt\u2026 [+3610 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Matt Novak",
-            "title": "Fake Photos of Disney World Destroyed by Hurricane Milton Flood Social Media",
-            "description": "Russian state media and right-wing influencers on X helped share disinformation about Disney.",
-            "url": "https://gizmodo.com/fake-photos-of-disney-world-destroyed-by-hurricane-milton-flood-social-media-2000510410",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AI-Disney-World-Fake.jpg",
-            "publishedAt": "2024-10-10",
-            "content": "Walt Disney World in Orlando, Florida, shut down operations Wednesday night due to Hurricane Milton and the tornadoes that sprung up before the storm even made landfall. But if you\u2019re seeing photos o\u2026 [+5444 chars]"
+            "author": "Kyle Barr",
+            "title": "Tim Cook Knows Apple Isn\u2019t First in AI but Says \u2018It\u2019s About Being the Best\u2019",
+            "description": "Apple reportedly conducted internal studies showing Apple Intelligence is two years behind ChatGPT, but that may not matter.",
+            "url": "https://gizmodo.com/tim-cook-knows-apple-isnt-first-in-ai-but-says-its-about-being-the-best-2000514347",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Tim-Cook-iPhone-16-Apple-Intelligence-2.jpg",
+            "publishedAt": "2024-10-21",
+            "content": "Ricky Bobby from the 2006 film Talladega Nights would find Apples belated rollout of Apple Intelligence a sure sign of failure. If you aint first, youre last, he\u2019d say to Apple CEO Tim Cook. In the m\u2026 [+4653 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "A new iMessage safety feature prompts kids to report explicit images to Apple",
+            "description": "Apple is adding a new child safety feature to iMessage that lets kids send a report to Apple when they are sent photos or videos with nudity, according to The Guardian. After getting a report, the company can choose report messages to law enforcement.",
+            "url": "https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qKdCWJQesHoFeSnIlYc1aKGH5LA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24402139/STK071_apple_K_Radtke_03.jpg",
+            "publishedAt": "2024-10-24",
+            "content": "A new iMessage safety feature prompts kids to report explicit images to Apple\r\nA new iMessage safety feature prompts kids to report explicit images to Apple\r\n / When children receive images or videos\u2026 [+2414 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Matthew Gault",
-            "title": "The EU\u2019s Fines Against Elon Musk May Be Much Larger Than Anticipated",
-            "description": "The European Union is making a decision that may cause any potential fines against Musk to skyrocket.",
-            "url": "https://gizmodo.com/the-eus-fines-against-elon-musk-may-be-much-larger-than-anticipated-2000513026",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskSad.jpg",
-            "publishedAt": "2024-10-17",
-            "content": "The European Union is considering levying fines against Elon Musk over his unwillingness to cooperate with an investigation into Xs moderation and advertising policies. According to a report from Blo\u2026 [+2388 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Todd Feathers",
-            "title": "The Biden Administration Touts Its Big Year in AI",
-            "description": "On the anniversary of President Biden's executive order on AI, the White House says it has met all its year-one goals.",
-            "url": "https://gizmodo.com/the-biden-administration-touts-its-big-year-in-ai-2000518407",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/biden-ai-executive-order.jpg",
-            "publishedAt": "2024-10-30",
-            "content": "The White House on Wednesday said that federal agencies have completed all the tasks they committed to during the first year of the Biden administration\u2019s executive order on artificial intelligence.\r\u2026 [+2610 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Kamala Harris Might Keep Lina Khan at the FTC, After All",
-            "description": "If she wins in November, there are indicators that Harris will keep the controversial FTC head, a new report claims.",
-            "url": "https://gizmodo.com/kamala-harris-might-keep-lina-khan-at-the-ftc-after-all-2000513157",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Lina-Khan-at-the-Fast-Company-Innovation-Festival.jpg",
-            "publishedAt": "2024-10-17",
-            "content": "Lina Khan, the head of the Federal Trade Commission, has proven to be a contentious figurearguably because, unlike some of the FTC chairs who came before her, she seems intent on actually doing her j\u2026 [+2894 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Truth Social Users Are Losing Ridiculous Sums of Money to Scams",
-            "description": "Read the complaints submitted to the FTC by users of Donald Trump's social media platform.",
-            "url": "https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/donald-trump-october-3-2024.jpg",
-            "publishedAt": "2024-10-05",
-            "content": "Donald Trump launched Truth Social in 2022 as a social media platform where the MAGA faithful could hang out without any liberals to spoil the fun. The biggest selling point? It was the only place wh\u2026 [+30292 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Praxis: Another Tech-Billionaire Backed Urban Project Gets $525 Million in Funding",
-            "description": "The weird new urban development plan seeks to remake human society.",
-            "url": "https://gizmodo.com/praxis-another-tech-billionaire-backed-urban-project-gets-525-million-in-funding-2000512690",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Caribbean-island-of-Martinique.jpg",
-            "publishedAt": "2024-10-16",
-            "content": "A bizarre tech-fueled ideological movement is growing. Proponents of the \u201cNetwork State\u201d seek to create privately owned, anarcho-capitalist, \u201cautonomous\u201d citiesthe likes of which are the urban planni\u2026 [+4087 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Adam Kovac",
-            "title": "Global Catastrophe Looms as Key Ocean Current Nears Collapse, Experts Warn",
-            "description": "While there have been signs the Atlantic Meridional Overturning Circulation has slowed, it could soon stop altogether. That would be very, very bad.",
-            "url": "https://gizmodo.com/global-catastrophe-looms-as-key-ocean-current-nears-collapse-experts-warn-2000515637",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/atlantic-ocean-current-collapse-open-letter-climate-change.jpg",
+            "author": "Tom Maxwell",
+            "title": "Apple and Goldman Sachs Hit With $89 Million Fine Over Inept Apple Card Introduction",
+            "description": "The Consumer Financial Protection Bureau says Apple and Goldman Sachs failed to properly handle disputes, other issues.",
+            "url": "https://gizmodo.com/apple-and-goldman-sachs-hit-with-89-million-fine-over-inept-apple-card-introduction-2000515590",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-1132776908.jpg",
             "publishedAt": "2024-10-23",
-            "content": "The collapse of one of the worlds most important ocean currents, a disaster that would wreak havoc on Earth\u2019s ecosystems, is generally considered unlikely. But in a newly issued open letter, leading \u2026 [+4357 chars]"
+            "content": "Apple and Goldman Sachs were hit with over $89 million in fines on Wednesday over technical issues related to the Apple Card. The Consumer Financial Protection Bureau (CFPB) brought the action.\r\nAppl\u2026 [+4080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Anna Washenko",
+            "title": "The Apple Pencil Pro is 30 percent off, taking it down to an all-time low price",
+            "description": "Apple doesn't offer many discounts for its product lineup, so seeing one of its tablet accessories on sale for a third off the usual cost is exciting. The Apple Pencil Pro is available on Amazon for just $90, the lowest price we've seen for it. This is the mo\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2711bbdf-0325-4496-a71b-8ef9816078e3",
+            "urlToImage": null,
+            "publishedAt": "2024-10-15",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sarah Fielding",
+            "title": "iOS 18.1 launches next week with Apple Intelligence and AirPods Pro hearing tests and aids",
+            "description": "Apple iOS 18.1 is officially coming next week, bringing hearing aid software for the AirPods Pro 2 and Apple Intelligence across devices, multiple sources report, including The Wall Street Journal and Tech Crunch. The company previously released a beta versio\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_53f156c9-a116-4dee-b151-0e8462185bfe",
+            "urlToImage": null,
+            "publishedAt": "2024-10-21",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kris Holt",
+            "title": "Apple's 9th-gen iPad returns to an all-time low of $199 for October Prime Day",
+            "description": "Prime Day is here and we've been busy rounding up the best deals we can find. There's an iPad offer in particular that matches one we've seen before, but it's definitely worth highlighting. The 9th-gen iPad has dropped back down to $199, which matches a recor\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bcc66f34-03a5-480d-96c1-25b265eef0af",
+            "urlToImage": null,
+            "publishedAt": "2024-10-09",
+            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Matt Novak",
-            "title": "The Most Shocking Images of Hurricane Milton Damage So Far",
-            "description": "Severe weather in Florida has killed at least 10 people.",
-            "url": "https://gizmodo.com/the-most-shocking-images-of-hurricane-milton-damage-so-far-2000510597",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Tropicana-Field-getty.jpg",
+            "author": "Kyle Barr",
+            "title": "An \u2018Exciting Week\u2019 of Apple News Will Likely Bring Us the Rumored M4 MacBook",
+            "description": "Apple says next week we could see a M4 MacBook and a whole host of new M4-based hardware to support Apple Intelligence.",
+            "url": "https://gizmodo.com/an-exciting-week-of-apple-news-will-likely-bring-us-the-rumored-m4-macbook-2000516169",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/11/70cb95a8bc74fa0d4722dcc1e70cd27b-e1729790869301.jpg",
+            "publishedAt": "2024-10-24",
+            "content": "Next week will be a big one for Apple. Hot off the presses with its 7th-gen iPad mini, the Cupertino, California company is about to debut an exciting week of announcements starting Monday. Whatever \u2026 [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Don\u2019t buy at the Apple Store; Amazon is slashing prices on MacBook Pros for Prime Day",
+            "description": "Apple hates discounts!",
+            "url": "https://gizmodo.com/dont-buy-at-the-apple-store-amazon-is-slashing-prices-on-macbook-pros-for-prime-day-2000509179",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/macbookpro-2023.jpg",
+            "publishedAt": "2024-10-08",
+            "content": "Amazon has kicked off Prime Day with a bang and unveiled incredible deals on the latest MacBook Pro models this Tuesday morning. Apple fans will be thrilled to discover that the 2023 MacBook Pro line\u2026 [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Slashes AirPods Max Price to Record Low for Prime Day Clearance Sale",
+            "description": "And Apple hates discounts!",
+            "url": "https://gizmodo.com/amazon-slashes-airpods-max-price-to-record-low-for-prime-day-clearance-sale-2000507985",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple-1.jpg",
+            "publishedAt": "2024-10-06",
+            "content": "Amazon has slashed prices on Apple\u2019s premium AirPods Max and offers an unprecedented deal that\u2019s turning heads in the tech world. These high-end over-ear headphones originally priced at $549 saw an i\u2026 [+2510 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Targets the Best Laptop in the World, Slashes Prices Even for Non-Prime Members",
+            "description": "Apple hates discounts.",
+            "url": "https://gizmodo.com/amazon-targets-the-best-laptop-in-the-world-slashes-prices-even-for-non-prime-members-2000507399",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/macbookpro-14-2024.jpg",
+            "publishedAt": "2024-10-04",
+            "content": "The MacBook Pro M3 has emerged as one of the most powerful devices available for the general public and captivates even die-hard Windows enthusiasts with its exceptional performance and sleek design.\u2026 [+2237 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brenda Stolyar",
+            "title": "Mac Mini (2024): Specs, Release Date, Price, Features",
+            "description": "This desktop computer has its first design change since 2010, with a smaller footprint, vents at the bottom, and ports on the front.",
+            "url": "https://www.wired.com/story/apple-mac-mini-2024/",
+            "urlToImage": "https://media.wired.com/photos/672053fafe5589c5d79e9f90/191:100/w_1280,c_limit/Gear_Apple-Mac-mini-front-facing-ports-pink.jpg",
+            "publishedAt": "2024-10-29",
+            "content": "There's Shark Week, and then there's Mac Week. It's a little less exciting, but Apple first announced a new iMac yesterday, and today we're being treated to a new Mac Mini. Tomorrow, there's a good c\u2026 [+2268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Cherlynn Low",
+            "title": "Apple Intelligence expands in iOS 18.2 developer beta, adding Genmoji, Visual Intelligence and ChatGPT",
+            "description": "The Apple Intelligence rollout has been slow, staggered and steady since the company first unveiled its take on AI at WWDC this year. It continues today with the release of the latest developer betas for iOS 18, iPadOS 18 and macOS Sequoia. The updates in iOS\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_873aa1d2-5373-4074-9d74-a4b609ae3fdc",
+            "urlToImage": null,
+            "publishedAt": "2024-10-23",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-27",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Valentina Palladino",
+            "title": "Prime Day Apple deals include the M2 MacBook Air for a record low of $749",
+            "description": "With October Prime Day approaching fast, we're seeing new deals drop in the final hours of the lead up. One of the latest deals is on the M2-powered MacBook Air laptop, which you can snag right now for $749. That's $250 off and a new record low on the machine\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cea3694a-9514-4e54-8aba-447747ac166a",
+            "urlToImage": null,
+            "publishedAt": "2024-10-07",
+            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-31",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard",
+            "description": "OnePlus is selling the OnePlus Pad for $359.99 with a free magnetic keyboard. Amazon\u2019s Smart Thermostat and the USB-C Apple Pencil are also on sale.",
+            "url": "https://www.theverge.com/2024/10/16/24270849/oneplus-pad-amazon-smart-thermostat-deal-sale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/q6NYMVwsOkSC_9UJcuxsqIsnFhs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24616039/oneplus_pad_6.jpg",
+            "publishedAt": "2024-10-16",
+            "content": "The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard\r\nThe OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard\r\n / We also found deals on the Amazon Smart \u2026 [+3298 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "All the news from Apple\u2019s \u2018week\u2019 of Mac announcements",
+            "description": "Apple is announcing an M4 MacBook Pro, an M4 iMac, and a redesigned M4 Mac Mini. Here\u2019s all the news on Apple\u2019s latest Macs.",
+            "url": "https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/leY81221X3PjSymyEVG7k6RKfb8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg",
+            "publishedAt": "2024-10-28",
+            "content": "New Macs are coming. Apple has teased a week of announcements around the Mac starting on Monday, October 28th. And after months of leaks, we have a pretty good idea of whats in the cards.\r\nApple is l\u2026 [+7161 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "A first look at Apple\u2019s redesigned Mac Mini and its other new Macs",
+            "description": "Apple has officially announced its M4-equipped Mac Minis, iMacs, and MacBook Pros, and we were able to take photos of the new computers.",
+            "url": "https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/F8dk3-nYCIV4ini-dVFFXi1_wQI=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/25706946/214A8906.jpg",
+            "publishedAt": "2024-10-30",
+            "content": "A first look at Apples redesigned Mac Mini and its other new Macs\r\nA first look at Apples redesigned Mac Mini and its other new Macs\r\n / The Mac Mini is indeed very mini.\r\nByJay Peters, a news editor\u2026 [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Apple is preparing an M4 MacBook Air update for early next year",
+            "description": "Apple plans to release MacBook Airs with M4 chips in early 2025. The company is also working on an M4 Mac Studio for sometime in 2025, too.",
+            "url": "https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/FgQBJPicKhQ51umT273aTD89LoE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25333661/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
+            "publishedAt": "2024-10-23",
+            "content": "Apple is preparing an M4 MacBook Air update for early next year\r\nApple is preparing an M4 MacBook Air update for early next year\r\n / Apple is rumored to update many of its computers next week, but th\u2026 [+1535 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Apple put the Magic Mouse\u2019s charging port on the bottom again",
+            "description": "Apple just announced a new version of the Magic Mouse, and it still has the charging port on the underside of the device.",
+            "url": "https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BIixQ1Q-A0AX1thL1K-yyzOX-QY=/0x0:1590x994/1200x628/filters:focal(888x442:889x443)/cdn.vox-cdn.com/uploads/chorus_asset/file/25703120/Screenshot_2024_10_28_at_11.33.03_AM.png",
+            "publishedAt": "2024-10-28",
+            "content": "Yup, it\u2019s still there. | Image: Apple\r\n\n \n\n Apple\u2019s new USB-C-equipped Magic Mouse somehow still has the charging port on the bottom. While Apple could have used the launch as an opportunity to move \u2026 [+788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dua Rashid",
+            "title": "Apple Magic Mouse, Trackpad, and Keyboard Are Finally Getting a Long-Awaited Refresh",
+            "description": "It's about time Apple works on its most criticized products.",
+            "url": "https://gizmodo.com/apple-magic-mouse-trackpad-and-keyboard-are-finally-getting-a-long-awaited-refresh-2000514928",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-magic-mouse.jpg",
+            "publishedAt": "2024-10-22",
+            "content": "According to some code found in the iOS 18.1 release candidate (via MacRumors), Apple may soon launch new versions of its infamous Magic Mouse, Magic Trackpad, and Magic Keyboard. It\u2019s about damn tim\u2026 [+2304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Crushes iPad Prices by 40%, Hitting Apple Hard on Day Two of Prime Day",
+            "description": "A 40% reduction on an Apple product is historic.",
+            "url": "https://gizmodo.com/amazon-crushes-ipad-prices-by-40-hitting-apple-hard-on-day-two-of-prime-day-2000509556",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
+            "publishedAt": "2024-10-09",
+            "content": "Amazon\u2019s Prime Day event has reached its final hours and the e-commerce giant is pulling out all the stops with an unprecedented offer on the 9th generation iPad.\r\nThe 9th generation iPad is original\u2026 [+2077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "2024 MacBook Air Heavily Discounted on Prime Day: How Could Apple Allow Amazon to Do This?",
+            "description": "Apple must be pulling its hair out over this promotion.",
+            "url": "https://gizmodo.com/2024-macbook-air-heavily-discounted-on-prime-day-how-could-apple-allow-amazon-to-do-this-2000509590",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/macbook-air-m3.jpg",
+            "publishedAt": "2024-10-09",
+            "content": "As Amazon\u2019s Prime Day event reaches its final hours today, an unprecedented deal on Apple\u2019s latest MacBook Air (2024!) has taken center stage. This offer stands out not only for its substantial 20% d\u2026 [+2708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "One Day After Prime Day, Amazon Crushes iPad Prices by 40%",
+            "description": "A 40% reduction on an Apple product is historic.",
+            "url": "https://gizmodo.com/amazon-crushes-ipad-prices-by-40-hitting-apple-hard-prime-day-2000509556",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
             "publishedAt": "2024-10-10",
-            "content": "Hurricane Milton made landfall with the eastern coast of Florida on Wednesday night as a Category 3 storm, wiping out power for about 3 million people and bringing devastating wind and rain. Tornadoe\u2026 [+8549 chars]"
+            "content": "The 9th generation iPad is originally priced at $329 is now available for an astounding $199. This is a massive 40% discount which brings the price of this versatile tablet to its lowest point ever. \u2026 [+1493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Price error or not, these AirTags are a steal this Prime Day on Amazon",
+            "description": "Amazon spares no Apple product, not even the AirTags.",
+            "url": "https://gizmodo.com/price-error-or-not-these-airtags-are-a-steal-this-prime-day-on-amazon-2000508426",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/airtags-apple.jpg",
+            "publishedAt": "2024-10-07",
+            "content": "As Prime Day kicks off, Apple AirTags have emerged as one of the hottest items with Amazon offering massive discounts on these tracking devices. The best part? These deals are available to everyone, \u2026 [+2332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-29",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Quentyn Kennemer",
+            "title": "Here\u2019s where you can preorder Apple\u2019s colorful M4 iMac (and what\u2019s included)",
+            "description": "The new M4-based iMac doesn\u2019t launch until November 8, but you can already preorder it starting at $1,299. Here\u2019s what you should know about the various configurations.",
+            "url": "https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/HSS-ceWx4hofzOmjNARnTnvb_j8=/0x0:1646x1097/1200x628/filters:focal(823x549:824x550)/cdn.vox-cdn.com/uploads/chorus_asset/file/25703112/Apple_iMac_M4_lifestyle_24_inch_Retina_display.jpg",
+            "publishedAt": "2024-10-28",
+            "content": "Heres where you can preorder Apples colorful M4 iMac (and whats included)\r\nHeres where you can preorder Apples colorful M4 iMac (and whats included)\r\n / The new all-in-one will arrive on November 8th\u2026 [+2918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Beat the Black Friday Rush with This MacBook Pro at Its Lowest Price Ever",
+            "description": "Apple rarely offers discounts, so this deal won\u2019t last long\u2014act fast before it\u2019s gone",
+            "url": "https://gizmodo.com/beat-the-black-friday-rush-with-this-macbook-pro-at-its-lowest-price-ever-2000513532",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Untitled-design-12.jpg",
+            "publishedAt": "2024-10-18",
+            "content": "Amazon Prime Big Deals Days has already come to pass. This is Amazon\u2019s big seasonal savings even where you can find tons of different products on sale for massive discounts across all categories. Fro\u2026 [+2426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Four Days After Prime Day, Amazon Slashes The Price Of AirPods Max To A Record Low",
+            "description": "At less than $400, this Apple headset is an excellent bargain.",
+            "url": "https://gizmodo.com/four-days-after-prime-day-amazon-slashes-the-price-of-airpods-max-to-a-record-low-2000511566",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/airpods-max-apple.jpg",
+            "publishedAt": "2024-10-13",
+            "content": "As the autumn leaves begin to fall and the crisp October air settles in, Amazon has decided to extend its Prime Day festivities and offers a great opportunity for audiophiles. This Sunday, a particul\u2026 [+2289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "This Grade A Refurbished MacBook Air Is Cheaper Than Your iPad and Delivers Outstanding Performance",
+            "description": "StackSocial's 74%-off deal on this Grade A refurbished Apple laptop is a true steal.",
+            "url": "https://gizmodo.com/this-grade-a-refurbished-macbook-air-is-cheaper-than-your-ipad-and-delivers-outstanding-performance-2000513831",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MacBook-Air-2017.jpg",
+            "publishedAt": "2024-10-19",
+            "content": "Apple loves to talk about the laptop-like experience of the iPad, and they make an excellent case because the iPad\u00a0is an amazing tablet. But why spend $1,300 on a new 13-inch iPad Pro when you can bu\u2026 [+2193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "iPad 9: Amazon Slashes Price Again, Now 5x Cheaper Than iPad Pro for Prime Day",
+            "description": "Amazon is slashing prices across all Apple products for Prime Day.",
+            "url": "https://gizmodo.com/ipad-9-amazon-slashes-price-again-now-5x-cheaper-than-ipad-pro-for-prime-day-2000507980",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
+            "publishedAt": "2024-10-06",
+            "content": "As the autumn chill sets in, Amazon is turning up the heat on its digital marketplace with an incredible Prime Day deal that\u2019s catching everyone\u2019s attention. The star of the show? The 9th generation \u2026 [+2283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "If You\u2019ve Already Bought AirPods Pro 2, This Insane Prime Day Price Will Make You Jealous",
+            "description": "It seems that Apple is looking to clear out its stock of AirPods Pro 2.",
+            "url": "https://gizmodo.com/if-youve-already-bought-airpods-pro-2-this-insane-prime-day-price-will-make-you-jealous-2000507867",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-pro-2-anc.jpg",
+            "publishedAt": "2024-10-06",
+            "content": "One of the stars of the Prime Day show is undoubtedly the AirPods Pro 2 which is now available for just $199, a substantial 20% discount from their regular $249 price tag. This offer presents a rare \u2026 [+2449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Hard to See This Discount on Apple\u2019s Monitor, But Here It Is for Over $250 Off for Prime Day",
+            "description": "Save 16% on the Apple Studio Display with standard glass and a tilt-adjustable stand.",
+            "url": "https://gizmodo.com/hard-to-see-this-discount-on-apples-monitor-but-here-it-is-for-over-250-off-for-prime-day-2000509399",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AppleStudioDisplay.jpg",
+            "publishedAt": "2024-10-08",
+            "content": "Come one, come all it\u2019s time to celebrate the finest of holidays and that is Prime Day. The one time of year (except its actually multiple times a year) that we all come together to spend money on pr\u2026 [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "The MacBook Air is Selling At Half The Price Of A MacBook Pro, This is One The Best Prime Day Deals Ever",
+            "description": "Now is the perfect time to buy a MacBook Air with the Apple chip.",
+            "url": "https://gizmodo.com/the-macbook-air-is-selling-at-half-the-price-of-a-macbook-pro-this-is-one-the-best-prime-day-deals-ever-2000507852",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/mba-m2.jpg",
+            "publishedAt": "2024-10-05",
+            "content": "Amazon\u2019s Prime Day is -once again- offering tech enthusiasts a fantastic opportunity to snag one of Apple\u2019s most popular laptops at an unbeatable price. The MacBook Air M2 with 256GB of storage is no\u2026 [+2330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "iPad 9: Amazon Slashes Price Again, Now 5 Times Cheaper Than iPad Pro for Prime Day",
+            "description": "Amazon is slashing prices across all Apple products for Prime Day.",
+            "url": "https://gizmodo.com/ipad-9-amazon-slashes-price-again-now-5x-cheaper-than-ipad-pro-prime-day-2000507980",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
+            "publishedAt": "2024-10-07",
+            "content": "Amazon is turning up the heat on its digital marketplace with an incredible Prime Day deal that\u2019s catching everyone\u2019s attention. The star of the show? The 9th generation iPad, a versatile and powerfu\u2026 [+2262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "This Apple MacBook Air Has Never Been Cheaper, No Need to Wait for Black Friday",
+            "description": "Save 30% on the 2022 Apple MacBook Air powered by the M2 chip.",
+            "url": "https://gizmodo.com/this-apple-macbook-air-has-never-been-cheaper-no-need-to-wait-for-black-friday-2000516186",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MacBook.jpg",
+            "publishedAt": "2024-10-24",
+            "content": "Scattered throughout the year, we have our big days for deals we\u2019ve come to expect. Black Friday is a big one, but even after that we have Cyber Monday. Then there are the government holidays like La\u2026 [+1762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "MacBook, AirTags, AirPods, iPad: Amazon Slashes Prices on Apple Devices Up to 40% for Prime Day",
+            "description": "Apple never offers discounts, but Amazon isn't holding back this Prime Day.",
+            "url": "https://gizmodo.com/macbook-airtags-airpods-ipad-amazon-slashes-prices-on-apple-devices-up-to-40-for-prime-day-2000507388",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-devices.jpg",
+            "publishedAt": "2024-10-04",
+            "content": "Amazon has unleashed a flurry of incredible deals on Apple products and discounts that are rarely seen on these coveted devices. While Apple is famous for maintaining strict pricing on its official w\u2026 [+3093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Bring the Apple iPad Mini into Your Hands at a Lowest Price for Prime Day",
+            "description": "Save over $100 on a 6th generation 8.3-inch Apple iPad Mini and stay connected anywhere.",
+            "url": "https://gizmodo.com/bring-the-apple-ipad-mini-into-your-hands-at-a-lowest-price-for-prime-day-2000508263",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iPadMini6thGen.jpg",
+            "publishedAt": "2024-10-07",
+            "content": "Prime Day is so close. Tomorrow and Wednesday, the figurative doors of Amazon will open with a ton of products across every category on sale for massive discounts. But did you realize there\u2019s already\u2026 [+2057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "It Isn\u2019t Free, But The MacBook Air is Available at Ridiculous Prices For Prime Day",
+            "description": "Apple certainly did not approve this massive promotion on the MacBook Air M2.",
+            "url": "https://gizmodo.com/it-isnt-free-but-the-macbook-air-is-available-at-ridiculous-prices-for-prime-day-2000508735",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/mba-m2.jpg",
+            "publishedAt": "2024-10-08",
+            "content": "Amazon has launched an unprecedented deal on the MacBook Air M2 for Prime Day which kicks off today and will last for 48 hours. The e-commerce giant has slashed the price of this laptop to an all-tim\u2026 [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dua Rashid",
+            "title": "Apple Intelligence Is Set to Make Your Attention Span Even Shorter",
+            "description": "These are all the Apple Intelligence features coming to iPhone on October 28.",
+            "url": "https://gizmodo.com/apple-intelligence-is-set-to-make-your-attention-span-even-shorter-2000510763",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iphone-16.jpg",
+            "publishedAt": "2024-10-15",
+            "content": "One of the biggest blows to our attention spans happened when content started being squeezed into 10-second TikToks, Reels, and Snaps. That gradually made watching long-form content fairly difficult.\u2026 [+3074 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Ticketmaster will start using Apple Wallet\u2019s more useful tickets this month",
+            "description": "Ticketmaster announced that it will be the first ticketing company to use Apple\u2019s upgraded Apple Wallet tickets for iOS 18. The first event to use the tickets will be an October 19th Los Angeles Football Club game.",
+            "url": "https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ogn1mVbYQv9S5xK9iYeuplQo7Es=/0x0:2048x1150/1200x628/filters:focal(1024x575:1025x576)/cdn.vox-cdn.com/uploads/chorus_asset/file/25670129/Apple_Wallet_B2B_Blog_Header_204.jpg",
+            "publishedAt": "2024-10-10",
+            "content": "Image: Ticketmaster\r\n\n \n\n Ticketmaster announced today that it will be the first ticketing company to use Apple\u2019s upgraded Apple Wallet tickets for iOS 18. With the improved tickets, you\u2019ll be able t\u2026 [+751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Apple Finally Releases iPadOS 18 Update After Bricked Tablets SNAFU",
+            "description": "M4 iPad Pro owners reported Apple\u2019s latest update killed their tablets, requiring them to get a a replacement. Apple Watch and HomePod Mini owners have also reported bricking issues with the latest OS betas.",
+            "url": "https://gizmodo.com/apple-finally-releases-ipados-18-update-for-ipad-pro-after-its-bricked-tablets-snafu-2000507414",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/iPad-Pro-M4-iPad-OS-18i-e1726666107706.jpg",
+            "publishedAt": "2024-10-04",
+            "content": "Apples latest batch of OS update wasnt what you would call a smooth launch. The long-awaited iPadOS 18 patch caused an unknown issue with some of the latest M4 iPad Pro models, shutting them down and\u2026 [+2463 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Score the Apple iPad Mini at a Record Low Price on Amazon, Cheaper Than In-Store",
+            "description": "The Apple iPad Mini makes for a solid tablet and is a solid 30% off over at Amazon",
+            "url": "https://gizmodo.com/score-the-apple-ipad-mini-at-a-record-low-price-on-amazon-cheaper-than-in-store-2000515720",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AppleiPadMini.jpg",
+            "publishedAt": "2024-10-23",
+            "content": "The gift-giving holidays at the end of the year are quickly approaching. We\u2019re roughly just two months out and those are going to go by faster than you think. Before you know it, it\u2019ll only be days a\u2026 [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Prime Day May Be Over But These Apple AirTags Are Still 19% off",
+            "description": "Get an individual Apple AirTag for $25 or four for just $80 even though Prime Day has come and gone.",
+            "url": "https://gizmodo.com/prime-day-may-be-over-but-these-apple-airtags-are-still-19-off-2000510521",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AirTag.jpg",
+            "publishedAt": "2024-10-10",
+            "content": "Prime Day has come in gone. If you\u2019ve been asleep, away from your computer for the past two days, then you may have woken up thinking you\u2019ve missed your big chance to save some cash on gadgets and gi\u2026 [+2165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Apple\u2019s iOS 18.2 Is Out in Beta, Finally Lets You Make Junk AI Emojis",
+            "description": "The next slice of Apple Intelligence is available for anybody who wants to download the developer beta of iOS 18.2.",
+            "url": "https://gizmodo.com/apples-ios-18-2-is-out-in-beta-finally-lets-you-make-junk-ai-emojis-2000515736",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/06/1ac94a65354f73ce9d9d4f6aa98c5f2c-e1729709735606.jpg",
+            "publishedAt": "2024-10-23",
+            "content": "Even though iOS 18.1, iPadOS 18.1 and macOS 15.1 have not even taken their first step out the door, theres already the next big thing for Apple Intelligence on the horizon. The next step on the Cuper\u2026 [+3542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Silo Season 2 Debuts in November, and Here\u2019s Your First Look",
+            "description": "Rebecca Ferguson and Common star in the Apple TV+ sci-fi show based on the Hugh Howey book trilogy.",
+            "url": "https://gizmodo.com/silo-season-2-trailer-release-date-apple-sdcc-2024-2000478709",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Silo_Season2.jpg",
+            "publishedAt": "2024-10-14",
+            "content": "Silo season one ended with a cliffhanger to end all cliffhangers. It desperately made you want to see what was next for Juliette (Rebecca Ferguson) as she discovered everything she thought she knew w\u2026 [+1493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Whether a Mistake or Not, Amazon Keeps The Prime Day AirTags Deal Alive",
+            "description": "This amazing offer on Apple AirTags is available for both the single unit and the four-pack.",
+            "url": "https://gizmodo.com/whether-a-mistake-or-not-amazon-keeps-the-prime-day-airtags-deal-alive-2000511758",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airtag-apple.jpg",
+            "publishedAt": "2024-10-14",
+            "content": "As Prime Day enters its final hours this Monday, Amazon continues to offer an exceptional deal on AirTags that shoppers won\u2019t want to overlook. These popular tracking devices are currently available \u2026 [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Kids with Android phones will be able to use Google Wallet tap-to-pay soon",
+            "description": "Google will soon let children use Google Wallet and its tap-to-pay feature on Android phones, which debuted earlier this year with the Fitbit Ace LTE.",
+            "url": "https://www.theverge.com/2024/10/30/24283825/android-phones-google-wallet-tap-to-pay-fitbit-ace-lte",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
+            "publishedAt": "2024-10-30",
+            "content": "Kids with Android phones will be able to use Google Wallet tap-to-pay soon\r\nKids with Android phones will be able to use Google Wallet tap-to-pay soon\r\n / Like Apple Pay, Google Wallet will let kids \u2026 [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Watch Apple\u2019s M4 MacBook Pro announcement video",
+            "description": "Apple\u2019s new MacBook Pros with M4 chips are here. The announcement comes in a new video segment following the new iMac and Mac Mini ones this week.",
+            "url": "https://www.theverge.com/2024/10/30/24283485/apple-macbook-pro-m4-max-announcement-watch-video",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/2ndj8uSu0Gz4g0x04FNjOwzrpQ0=/0x0:2880x1920/1200x628/filters:focal(1440x960:1441x961)/cdn.vox-cdn.com/uploads/chorus_asset/file/25706574/Screenshot_2024_10_30_at_11.16.40_AM.jpeg",
+            "publishedAt": "2024-10-30",
+            "content": "Watch Apples M4 MacBook Pro announcement video\r\nWatch Apples M4 MacBook Pro announcement video\r\n / Apples segmented hardware announcements continue this week with a new video featuring the new M4 Max\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Apple\u2019s Vision Pro leader, Dan Riccio, is retiring",
+            "description": "Dan Riccio, who heads the Vision Pro and oversaw much of Apple\u2019s popular new hardware from 2012 to 2021, is reportedly retiring this month after 26 years.",
+            "url": "https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ed7T1NHwsYw7ALRGvqF9Z9pWj74=/0x0:1960x1362/1200x628/filters:focal(980x681:981x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/22259288/Apple_dan_riccio_begins_a_new_chapter_at_apple_01252020_big.jpg.large_2x.jpg",
+            "publishedAt": "2024-10-09",
+            "content": "Apples Vision Pro leader, Dan Riccio, is retiring\r\nApples Vision Pro leader, Dan Riccio, is retiring\r\n / Dan Riccio transitioned from being Apples SVP of hardware engineering in 2021 to take over a n\u2026 [+1027 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "Was this the sickest iPod?",
+            "description": "The iPod Mini didn\u2019t last long \u2014 but the tiny MP3 player showed exactly how big Apple\u2019s idea could be.",
+            "url": "https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_DXJ1alBkKbOBrWYa3iBggZ5G_4=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25608376/CHORUS_LEDE.jpg",
+            "publishedAt": "2024-10-17",
+            "content": "I never owned an iPod Mini. Even as a college freshman back at the time of its introduction, I was already more of a full-size iPod kind of nerd. Mine was the third-gen model with the backlit buttons\u2026 [+4980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "Severance Is Already Plotting Out Its Third Season",
+            "description": "With season two on the way, the team behind the sci-fi workplace mystery is hoping Apple TV+ will be game for even more.",
+            "url": "https://gizmodo.com/severance-is-already-plotting-out-its-third-season-2000511119",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/severance_season_1.jpg",
+            "publishedAt": "2024-10-11",
+            "content": "One of the most anticipated second seasons in recent memory has got to be Severance: not only has it been excruciatingly long since season one premiered (February 2022) and became an instant fan favo\u2026 [+3427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The M4 MacBook Pros Are So Close to Release, Some Leakers Claim They Have One Already",
+            "description": "The latest reports suggest we\u2019ll have another spooky Apple release near Halloween that includes M4 MacBook Pros, plus a new Mac Mini, iMac, and an iPad Mini.",
+            "url": "https://gizmodo.com/the-m4-macbook-pros-are-so-close-to-release-some-leakers-claim-they-have-one-already-2000508184",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MacBook-Pro-M3-2.jpg",
+            "publishedAt": "2024-10-07",
+            "content": "Apple seems to be eyeing Halloween as a new yearly product release staple. According to reliable Apple rumormongers, the full-sized candy bars the Cupertino company will be sticking in our candy bags\u2026 [+3528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "Prime Day Minus One, This 2nd Gen Apple Pencil Has Already Dropped to a Lower Price",
+            "description": "Transform your iPad into a powerful art studio or note-taking machine with the Apple pencil and do it for 30% off.",
+            "url": "https://gizmodo.com/prime-day-minus-one-this-2nd-gen-apple-pencil-has-already-dropped-to-a-lower-price-2000508194",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-pencil-2nd-gen.jpg",
+            "publishedAt": "2024-10-07",
+            "content": "If you were thinking about resting up today before tomorrow\u2019s launch of Amazon\u2019s Prime Day Big Deals mega-event, think again. Those ultra-rare Apple deals have already started dropping at Amazon, lik\u2026 [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Fazioli",
+            "title": "The 2nd Gen Apple Watch SE Is a Prime Candidate for Deal of the Day at Just $200",
+            "description": "This Prime Day Big Deal has dropped the price of the Apple Watch SE to the lowest point we've ever seen.",
+            "url": "https://gizmodo.com/the-2nd-gen-apple-watch-se-is-a-prime-candidate-for-deal-of-the-day-at-just-200-2000509095",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-Watch-SE-2nd-Gen.jpg",
+            "publishedAt": "2024-10-08",
+            "content": "Even notoriously sale-shy Apple isn\u2019t immune from Amazon\u2019s Prime Big Deal Days blowout event. The Apple Watch SE (2nd Gen) is now at its lowest price yet just $200 at Amazon, down 28% from its retail\u2026 [+1977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "We\u2019re Finally Going to See App Makers Advertise Better Prices Outside of Play Store",
+            "description": "While Google\u2019s Epic loss will require Android to open up to third party app stores beyond Play Store, Google said it can\u2019t be a monopoly since Apple exists.",
+            "url": "https://gizmodo.com/were-finally-going-to-see-app-makers-advertise-better-prices-outside-of-play-store-2000509004",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Google-Play-Store-Collections-1-e1728393645249.jpg",
+            "publishedAt": "2024-10-08",
+            "content": "Googles Play Store is a monopoly, according to the U.S. courts, so its time for the defacto Android app store to truly open up to competition. On Monday, a judge ruled the tech giant needs to immedia\u2026 [+3830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "iPad Mini Is Back, and Apple Says It\u2019s Primed for AI",
+            "description": "The teeny tiny iPad Mini may still be barely bigger than an iPhone, but this time it\u2019s packing an A17 Pro chip plus support for Apple Pencil Pro.",
+            "url": "https://gizmodo.com/ipad-mini-is-back-and-apple-says-its-primed-for-ai-2000511986",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-iPad-mini-Apple-Pencil-Pro-241015-2.jpg",
+            "publishedAt": "2024-10-15",
+            "content": "You already have your giant iPhones with the iPhone 16 Pro Max covered, but what if you wanted all that juicy AI goodness with a little more screen? Apple debuted its new iPad mini on Tuesday, showin\u2026 [+2487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Apple iPad Mini 2024 Review in Progress: The Small Screen May Be the Perfect Size for iPad",
+            "description": "The iPad Mini 7th-gen is built for Apple Intelligence, but it\u2019s still a better realization of Apple\u2019s tablets for most users.",
+            "url": "https://gizmodo.com/apple-ipad-mini-2024-review-in-progress-the-small-screen-may-be-the-perfect-size-for-ipad-2000514926",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/ipad-mini-2024-2.jpg",
+            "publishedAt": "2024-10-22",
+            "content": "More than ever before, the 7th-gen iPad mini splits the difference between Apples smartphones and tablets. You wont slip it into your pocket, but it\u2019s the perfect size for a small bag. You wont be dr\u2026 [+8342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "Severance\u2018s First Season 2 Teaser Welcomes You Back to Work",
+            "description": "Adam Scott's Mark (or is it Marcus now?) returns to Lumon Industries in our latest look at the Apple TV+ series' much-anticipated second season.",
+            "url": "https://gizmodo.com/severances-first-season-2-teaser-welcomes-you-back-to-work-2000515387",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Severance_Photo.jpg",
+            "publishedAt": "2024-10-23",
+            "content": "The first teaser for Severance season two is disorienting, befuddling, and explains next to nothing about what\u2019s to comewhich is exactly what we want to see in any and all marketing for Apple TV+\u2019s o\u2026 [+2402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dua Rashid",
+            "title": "Samsung Teases Its Own Headset to Rival the Apple Vision Pro in 2025",
+            "description": "The headset will likely be priced between $1,000 and $1,500 competing with both the Apple Vision Pro and the Meta Quest 3.",
+            "url": "https://gizmodo.com/samsung-teases-its-own-headset-to-rival-the-apple-vision-pro-in-2025-2000519410",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/apple-vision-pro.jpg",
+            "publishedAt": "2024-11-01",
+            "content": "Samsung has been toying with the idea of releasing its own XR (extended reality) headset for around a year. In a recently released earnings call, it said it aims to \u201cimprove connectivity among produc\u2026 [+2333 chars]"
         },
         {
             "source": {
@@ -850,457 +1110,197 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "Seven takeaways from Trump's interview with Joe Rogan",
-            "description": "Trump discusses the \u201cbiggest mistake\u201d of his presidency, what he told North Korea\u2019s leader and life in space.",
-            "url": "https://www.bbc.com/news/articles/cy8nn0913e8o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3d91/live/1b3c6bd0-93ab-11ef-89ae-5575c76d98e6.jpg",
-            "publishedAt": "2024-10-26",
-            "content": "Republican presidential nominee Donald Trumps three-hour interview with Americas number one podcaster, Joe Rogan, has been released.\r\nIn the wide-ranging sit-down, the former president discusses ever\u2026 [+6392 chars]"
+            "author": "Joe Tilleli",
+            "title": "The Prime Day Price of the Apple MacBook Air Hasn\u2019t Gone Back Up Yet",
+            "description": "Get the 25% off Apple 2022 MacBook Air laptop with M2 chip for its Prime Day price before they remember to change it back.",
+            "url": "https://gizmodo.com/the-prime-day-price-of-the-apple-macbook-air-hasnt-gone-back-up-yet-2000510765",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MAcBookAirM2.jpg",
+            "publishedAt": "2024-10-10",
+            "content": "The October Prime Days we\u2019ve been waiting months for has already ended. These two days of deals took place earlier this week on October 8 and October 9. Now here we are on October 10, but it looks li\u2026 [+2214 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "How X users can earn thousands from US election misinformation and AI images",
-            "description": "The accounts are part of pro-Trump and pro-Harris networks sharing each other\u2019s content multiple times a day.",
-            "url": "https://www.bbc.com/news/articles/cx2dpj485nno",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/705e/live/be25b6f0-961f-11ef-ba4d-5b04a90bcb33.png",
-            "publishedAt": "2024-10-29",
-            "content": "Some users on X who spend their days sharing content that includes election misinformation, AI-generated images and unfounded conspiracy theories say they are being paid \"thousands of dollars\" by the\u2026 [+10728 chars]"
+            "author": "Brittany Vincent",
+            "title": "Amazon Offers 30% off the Apple Pencil Pro to Celebrate New iPad Mini Launch",
+            "description": "Don't miss out on this chance to add an Apple Pencil Pro to your new iPad setup for a great deal at Amazon.",
+            "url": "https://gizmodo.com/amazon-offers-30-off-the-apple-pencil-pro-to-celebrate-new-ipad-mini-launch-2000512100",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-pencil.jpg",
+            "publishedAt": "2024-10-15",
+            "content": "Apple unveils new iPad mini with support for pencil pro, and Amazon offers the pencil pro at just $90 (30% off) now. If you\u2019re an artist, student, or just someone looking to take your iPad experience\u2026 [+2162 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "Ros Atkins on\u2026 Would Donald Trump accept defeat?",
-            "description": "The BBC's analysis editor examines what happened in 2020 and how the Republican might react if he were to lose again.",
-            "url": "https://www.bbc.com/news/videos/clyr87g3j31o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e002/live/84c94730-938d-11ef-89ae-5575c76d98e6.jpg",
-            "publishedAt": "2024-10-26",
-            "content": "The polls in the US election are incredibly tight, but if Donald Trump loses there are concerns that he will refuse to accept the results, as he did in 2020. The BBC's analysis editor Ros Atkins look\u2026 [+122 chars]"
+            "author": "Kyle Barr",
+            "title": "Apple Reveals the New 2024 iMac: Familiar on the Outside, but With New Power Inside",
+            "description": "Apple showed off a new 24-inch iMac with a variety of color options, though there's still no option for a M4 Pro chip.",
+            "url": "https://gizmodo.com/apple-reveals-the-new-2024-imac-familiar-on-the-outside-but-with-new-power-inside-2000517276",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-iMac-M4-Photoshop.jpg",
+            "publishedAt": "2024-10-28",
+            "content": "We werent totally thrilled with Apples 2023 iMac refresh that came stock with the companys newfangled M3 silicon. Still, the Cupertino, California tech giant is ready to get into the ring again with \u2026 [+3071 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "How this US election could change state of the world",
-            "description": "Our chief international correspondent Lyse Doucet hears from leading experts about what's at stake ahead of the vote.",
-            "url": "https://www.bbc.com/news/articles/cgl490zrz45o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a328/live/7c605350-954e-11ef-89ae-5575c76d98e6.png",
-            "publishedAt": "2024-10-29",
-            "content": "When US President Joe Biden walked through Kyiv in February 2023 on a surprise visit to show solidarity with Volodymyr Zelensky, his Ukrainian counterpart, air sirens were wailing. I felt something m\u2026 [+10412 chars]"
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-30",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Investigating Musk's far-fetched claim about Democrats importing voters",
-            "description": "BBC Verify investigates the claim by Elon Musk that Democrats import illegal immigrants to vote.",
-            "url": "https://www.bbc.com/news/articles/czd5l0d3794o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a645/live/d6a1adb0-96e2-11ef-90df-3f1823a91773.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Since endorsing Donald Trump for president in July, Elon Musk - the owner of X - has posted about the US election hundreds of times, attracting more than four billion views.\r\nBBC Verify, working with\u2026 [+7660 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "As US votes, Ukraine\u2019s future hangs in balance",
-            "description": "Ukrainians on the front lines tell the BBC's James Waterhouse that their country\u2019s survival is in the hands of Americans.",
-            "url": "https://www.bbc.com/news/articles/cr5m6d6l7e2o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ade5/live/85cde500-97b6-11ef-a41c-dd1648bd8502.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Russian shelling in Zaporizhzhia\r\nAs she sweeps up broken glass outside her shop, Inna knows her countrys future is in the hands of Americans voting more than 5,000 miles away.\r\nWe hope that the woma\u2026 [+7659 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "For Gen Z, US election is all about the economy",
-            "description": "The rising costs of groceries and rent are driving many young voters to the polls.",
-            "url": "https://www.bbc.com/news/articles/czeg87x125ro",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/29d3/live/b9e63440-8362-11ef-bbc3-9d3803ee8b52.jpg",
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
             "publishedAt": "2024-10-07",
-            "content": "Isabella Morris says it's tough to make ends meet as a young family\r\nThe US presidential election is just weeks away and one essential voting bloc is getting a lot of attention from both parties: you\u2026 [+8810 chars]"
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Why has America failed to broker a Middle East ceasefire?",
-            "description": "State Department correspondent Tom Bateman takes us through a year of diplomacy failures as the Middle East sits on the brink of total war",
-            "url": "https://www.bbc.com/news/articles/cew1jkgd7n8o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ec21/live/233c45d0-8582-11ef-83dd-fbf1b9732cf0.png",
-            "publishedAt": "2024-10-09",
-            "content": "A year ago, after the October 7 attacks and the start of Israels offensive in Gaza, Joe Biden became the first US president to visit Israel at a time of war. I watched him fix his gaze at the TV came\u2026 [+11588 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Bowen: Iran faces hard choices between risks of escalation or looking weak",
-            "description": "International editor Jeremy Bowen examines what Iran's response might be to Israel's latest attack.",
-            "url": "https://www.bbc.com/news/articles/cm2742rynqgo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fae8/live/d9035860-9395-11ef-9504-b516e8b5f45f.jpg",
-            "publishedAt": "2024-10-26",
-            "content": "Israels attack on Iran deepens the war in the Middle East. Avoiding, or risking, an even worse escalation is at the heart of decisions being taken by Irans supreme leader, Ayatollah Ali Khamenei and \u2026 [+9051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Russian cash-for-votes flows into Moldova as nation heads to polls",
-            "description": "Sunday's presidential election is seen as a vote on whether the country looks east to Russia or west to the EU.",
-            "url": "https://www.bbc.com/news/articles/c23kdjxxx1jo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4e8d/live/6682e9a0-8e53-11ef-b3c2-754b6219680e.jpg",
-            "publishedAt": "2024-10-19",
-            "content": "Ilan Shor - pictured here while running for election in 2019 - fled the country before being sentenced in absentia for money laundering and embezzlement\r\nThe sniffer dogs at Chisinau Airport have bee\u2026 [+9175 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Central Park Five sue Trump for defamation over debate claims",
-            "description": "The now-exonerated men allege Trump spoke falsely of their case with \"reckless disregard\".",
-            "url": "https://www.bbc.com/news/articles/cdrjrd70286o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92f9/live/5399d480-8fce-11ef-80a8-4be99bc37a5c.jpg",
-            "publishedAt": "2024-10-21",
-            "content": "Members of the Central Park Five have sued Donald Trump for making false and defamatory statements during the 10 September presidential debate.\r\nThe lawsuit claims Trump defamed the five New York Cit\u2026 [+3313 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Harris pledges 'different path' at site of Trump 6 January rally",
-            "description": "The Democratic presidential candidate delivers her final message a week before election day.",
-            "url": "https://www.bbc.com/news/articles/ced9n00n820o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/841a/live/fd360bf0-965c-11ef-bcb7-0ff98a1ece99.jpg",
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
             "publishedAt": "2024-10-30",
-            "content": "The night before Kamala Harris sets off on a final multi-day swing through the key battleground states that will decide the 2024 presidential election, she gave one last speech, practically in the sh\u2026 [+4115 chars]"
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "'I'm not a one-issue voter, but this is huge': Abortion decided these women's votes",
-            "description": "It is the first presidential election since the top court overturned Roe v Wade, which protected the nationwide right to an abortion.",
-            "url": "https://www.bbc.com/news/articles/cew2x50808go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53be/live/c4fa8ca0-9627-11ef-a965-49eefc19faba.png",
-            "publishedAt": "2024-10-30",
-            "content": "The 2024 presidential election is the first since the Supreme Court overturned Roe v Wade, which protected the national right to an abortion.\r\nThe gender divide has been prominent in this election, w\u2026 [+7713 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Labour volunteers helping Harris 'in spare time' - Starmer",
-            "description": "Sir Keir Starmer says his party sends volunteers to the US for 'pretty much every' presidential election.",
-            "url": "https://www.bbc.com/news/articles/c62m2pde4p6o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d03a/live/d83381b0-90d6-11ef-88cc-4d9c57e8582b.jpg",
+            "author": "Kyle Barr",
+            "title": "Apple Reportedly Launching a Separate Game App Store to Fully Stick It to Epic",
+            "description": "A new report suggests Apple\u2019s gaming fixation is focusing on an app store separate to rival the Xbox app.",
+            "url": "https://gizmodo.com/apple-reportedly-launching-a-separate-game-app-store-to-fully-stick-it-to-epic-2000515490",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-iPhone-15-Pro-Gaming-2.jpg",
             "publishedAt": "2024-10-23",
-            "content": "Prime Minister Sir Keir Starmer has sought to play down the significance of alleged interference by the Labour Party in the American presidential election.\r\nThe Trump Campaign has filed a complaint w\u2026 [+2735 chars]"
+            "content": "It\u2019s often said that imitation is the sincerest form of flattery. If that\u2019s the case, Microsoft and Epic should feel very flattered right now. A new report suggests Apple is going all in on its own d\u2026 [+2927 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "Joker sequel suffers $33m collapse at box office",
-            "description": "The film, which has received mixed reviews, falls to third spot in its second week on the chart.",
-            "url": "https://www.bbc.com/news/articles/c1k7y9w4n12o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ab43/live/a614f150-8a28-11ef-b6b0-c9af5f7f16e4.jpg",
-            "publishedAt": "2024-10-14",
-            "content": "Joker: Folie \u00e0 Deux has plunged from the top of the North American box office, suffering a massive 80% drop from last weekends chart-topping debut of $30m (\u00a322.97m) to just $7.1m.\r\nThat is a record c\u2026 [+1533 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Bowen: US threat to cut Israel military aid is sign of anger at broken promises",
-            "description": "The letter criticising Israel over Gaza aid is an attempt to redress the balance between the US and its ally, our international editor says.",
-            "url": "https://www.bbc.com/news/articles/c3e9q4nylwjo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0ec3/live/0e4e56a0-8bf8-11ef-93ff-f7ebb0faaff2.jpg",
+            "author": "Mike Fazioli",
+            "title": "Pre-Order the New Apple iPad Mini 7 at a Discounted Price, No Joke",
+            "description": "Apple's groundbreaking new tablet is going to be one of the hottest holiday buys of the year, so get yours while you can.",
+            "url": "https://gizmodo.com/pre-order-the-new-apple-ipad-mini-7-at-a-discounted-price-no-joke-2000512555",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iPad-Mini-7.jpeg",
             "publishedAt": "2024-10-16",
-            "content": "The US says it will be watching to see that Israel's actions on the ground in Gaza match its statements on aid\r\nThe first aid in two weeks has gone into northern Gaza following a letter from the US t\u2026 [+10433 chars]"
+            "content": "Shopping prognosticators agree that one of the hottest Black Friday/Cyber Monday buys of the year will be on the new Apple iPad Mini the first one that\u2019s built for Apple Intelligence. Pre-orders have\u2026 [+2269 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "How have social media algorithms changed the way we interact?",
-            "description": "Algorithms can watch our behaviour and determine what millions of us see when we log on.",
-            "url": "https://www.bbc.com/news/articles/cp8e4p4z97eo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a283/live/26e3d150-88b4-11ef-8936-1185f9e7d044.png",
-            "publishedAt": "2024-10-12",
-            "content": "Social media algorithms, in their commonly known form, are now 15 years old.\r\nThey were born with Facebooks introduction of ranked, personalised news feeds in 2009 and have transformed how we interac\u2026 [+12989 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Bree Fowler",
-            "title": "Election 2024 Will Be Fair and Secure, Experts Say. Disregard the Noise",
-            "description": "It's not the security of the election process that experts are worried about, it's the efforts to discredit that process.",
-            "url": "https://www.cnet.com/news/politics/election-2024-will-be-fair-and-secure-experts-say-disregard-the-noise/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/5b89b46d5fa8fd179e05846f7ce1685e1928afcb/hub/2024/09/10/c73d0291-93eb-4f78-a03d-acfe4d1f3f4f/election-series-v700000.png?auto=webp&fit=crop&height=675&width=1200",
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
             "publishedAt": "2024-10-31",
-            "content": "The seemingly never-ending 2024 presidential election is in its final sprint, with early voting underway in some states and less than a week to go before voting hits its zenith on Election Day.\r\nThe \u2026 [+10866 chars]"
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "MacRumors"
             },
-            "author": "Connie Guglielmo",
-            "title": "OpenAI Makes History Again, This Time by Scoring Billions From Investors",
-            "description": "Get up to speed on the rapidly evolving world of AI with our roundup of the week's developments.",
-            "url": "https://www.cnet.com/tech/computing/openai-makes-history-again-this-time-by-scoring-billions-from-investors/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/8cdb1d666906c0d9e87f23e1caef7ce399544d7f/hub/2023/07/14/1f5f9c11-886f-4d27-b5c2-6130bd096be1/gettyimages-1475415310.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "author": "Hartley Charlton",
+            "title": "Apple Watch SE vs. Apple Watch Series 10 Buyer's Guide",
+            "description": "The Apple Watch SE starts at $249, providing an accessible, low-cost option for those interested in owning an Apple smartwatch. The company also now offers the Apple Watch Series 10, which starts at $399, so what exactly do you get by spending an additional $\u2026",
+            "url": "https://www.macrumors.com/guide/apple-watch-se-vs-series-10/",
+            "urlToImage": "https://images.macrumors.com/t/XxB0_YS17jVmCq7FpXXpRI7bOyU=/2500x/article-new/2024/10/Apple-Watch-Series-SE-vs-Series-10-Buyers-Guide.jpg",
+            "publishedAt": "2024-10-10",
+            "content": "The Apple Watch SE starts at $249, providing an accessible, low-cost option for those interested in owning an Apple smartwatch. The company also now offers the Apple Watch Series 10, which starts at \u2026 [+6962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Apple iPad 9 Is Now Under $200, Lowest Price Ahead of Black Friday",
+            "description": "This iPad is one of the best you'll find in Apple's lineup, and you can get one for one of its lowest prices yet right now.",
+            "url": "https://gizmodo.com/apple-ipad-9-is-now-under-200-lowest-price-ahead-of-black-friday-2000517920",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-ipad-9th-generation.jpg",
+            "publishedAt": "2024-10-29",
+            "content": "Time to upgrade your tablet? When it comes to portable tech, you can rarely do better than an iPad. Apple\u2019s tablet lineup is well worth investing in, especially if you like to multitask or enjoy your\u2026 [+2142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "MacBook Air\u00a0: Apple Would Never Do It, but Amazon Demolishes the Laptop\u2019s Price",
+            "description": "Both 2022 and 2024 models are on massive sale.",
+            "url": "https://gizmodo.com/macbook-air-apple-would-never-do-it-but-amazon-demolishes-the-laptops-price-2000508076",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/macbook-air-m3.jpg",
             "publishedAt": "2024-10-07",
-            "content": "OpenAI, which turned generative AI from a sci-fi concept into a consumer reality when it released ChatGPT two years ago, made history again last week when it raised $6.6 billion in one of the largest\u2026 [+7026 chars]"
+            "content": "Amazon\u2019s Prime Day event isonce again offering Apple fans a great opportunity to acquire one of their popular laptops at record low prices. The 13-inch MacBook Air M2 with 256GB of storage is now ava\u2026 [+3079 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Gizmodo.com"
             },
-            "author": "Thomas Kika",
-            "title": "Where Can I Vote Early? It's Simple to Find the Answer Online",
-            "description": "Early voting is still underway in most states, but do you'll want to check some online resources to make sure you're headed to the right place.",
-            "url": "https://www.cnet.com/news/politics/where-can-i-vote-early-its-simple-to-find-the-answer-online/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/d6ed975245450fb61674167cbb9edb583e36cb0e/hub/2024/09/10/f3dd60e1-617e-4d2a-af5e-943ab9680a41/election-series-v300000.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-30",
-            "content": "There's less than a week left until the 2024 general election between Vice President Kamala Harris and former President Donald Trump. That means early voting is still underway in most of the states -\u2026 [+2888 chars]"
+            "author": "Kyle Barr",
+            "title": "The Apple Vision Pro\u2019s First \u2018Immersive\u2019 Movie Looks Incredible Due to Classic Filmmaking Techniques",
+            "description": "Apple's first directed short \u2018immersive\u2019 movie for Vision Pro, Submerged, shows spatial movies may take more effort than your typical film.",
+            "url": "https://gizmodo.com/the-apple-vision-pros-first-immersive-movie-look-incredible-due-to-classic-filmmaking-techniques-2000510024",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-Vision-Pro-immersive-video-Submerged-2.jpg",
+            "publishedAt": "2024-10-10",
+            "content": "The one thing every current Apple Vision Pro owner demands isto put it simplymore. That is more features and more content. The latest push from Apple to make good on the promise of its first spatial \u2026 [+7062 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Gizmodo.com"
             },
-            "author": "Thomas Kika",
-            "title": "Register Online to Vote? Not in These 7 States",
-            "description": "Start making other plans if you were hoping to register online in any of these states.",
-            "url": "https://www.cnet.com/news/politics/want-to-register-to-vote-online-youre-out-of-luck-if-you-live-in-these-7-states/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/6cd2874eaeb01e3303dda5bec5535f178d410d25/hub/2024/09/10/26367a19-1636-42c6-9467-662c6b9fd6c6/election-series-v500000.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-04",
-            "content": "Handling voter registration online is one of the biggest modern conveniences available to US voters, but it's an option you might have to go without if you live in one of these seven states.\r\nEarly v\u2026 [+3426 chars]"
+            "author": "Dua Rashid",
+            "title": "Apple Plans to Go Retro With Its New Smart Home Display",
+            "description": "Picture a HomePod with a display as big as two iPhones placed side by side.",
+            "url": "https://gizmodo.com/apple-plans-to-go-retro-with-its-new-smart-home-display-2000517260",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iMac-g4.jpg",
+            "publishedAt": "2024-10-28",
+            "content": "Apple has reportedly been working on a new smart home device following its not-so-successful range of current offerings, trailing Google\u2019s and Amazon\u2019s alternatives. It\u2019s toying with the idea of givi\u2026 [+2178 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Gizmodo.com"
             },
-            "author": "Courtney Johnston",
-            "title": "Student Loan Forgiveness on Hold Again. Experts Explain What's Next for Debt Relief",
-            "description": "The holds on the student loan forgiveness plan are only temporary right now. Here's what borrowers should know.",
-            "url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-on-hold-again-experts-explain-whats-next-for-debt-relief/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e75f99e2f54bbe45da537b6a25bb08dfabeaf3f2/hub/2024/08/18/527dff78-3dc8-4bc8-9e76-2cd00e1fb5e7/student-loan-0001-9.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-04",
-            "content": "Not even a full day after the Biden administration's student loan forgiveness plan was given the green light, a Missouri judge blocked the plan again. If you have student loan debt, experts say to ex\u2026 [+4955 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "abharade@insider.com (Aditi Bharade,Kwan Wei Kevin Tan)",
-            "title": "Trump flip-flopped on crypto, but his PAC has raked in millions of dollars of crypto donations since June",
-            "description": "The former president has positioned himself as the pro-crypto candidate this election cycle. But he hasn't always had nice things to say about crypto.",
-            "url": "https://www.businessinsider.com/trump-pac-raised-millions-crypto-donations-since-june-2024-10",
-            "urlToImage": "https://i.insider.com/670f5459a70318649282ad0f?width=1200&format=jpeg",
-            "publishedAt": "2024-10-16",
-            "content": "A political action committee called Trump 47 has raised $7.5 million in cryptocurrency donations for former President Donald Trump's White House bid.\r\nAccording to Federal Election Commission filings\u2026 [+3227 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "ktangalakislippert@businessinsider.com (Katherine Tangalakis-Lippert)",
-            "title": "Marc Andreessen and Ben Horowitz each donated $2.5 million to a pro-Donald Trump super PAC",
-            "description": "Marc Andreessen and Ben Horowitz each donated $2.5 million to \"Right for America,\" a pro-Donald Trump super PAC, according to FEC filings.",
-            "url": "https://www.businessinsider.com/marc-andreessen-ben-horowitz-donated-millions-pro-trump-pac-2024-10",
-            "urlToImage": "https://i.insider.com/670f0c2ca70318649282aa6a?width=1200&format=jpeg",
-            "publishedAt": "2024-10-16",
-            "content": "New federal filings reveal a pro-Trump super PAC raked in millions of dollars in donations from major businessnames, including venture capitalists Marc Andreessen and Ben Horowitz.\r\nAccording to the \u2026 [+2522 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "jsor@businessinsider.com (Jennifer Sor)",
-            "title": "The US economy is in for a double shock if Trump is elected president, Nobel economist Paul Krugman says",
-            "description": "Trump is proposing two policies that could result in a double-shock for the US economy, according to Nobel economist Paul Krugman.",
-            "url": "https://www.businessinsider.com/trump-harris-economy-outlook-inflation-job-market-election-paul-krugman-2024-10",
-            "urlToImage": "https://i.insider.com/66842df41aace5b3ada3b1fb?width=1200&format=jpeg",
-            "publishedAt": "2024-10-31",
-            "content": "The US could be in for twin shocks if Trump becomes president for a second time, Nobel economist Paul Krugman said.\r\nThe Nobel economist pointed in particular to the former president's plan to raise \u2026 [+2666 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "asheffey@businessinsider.com (Ayelet Sheffey)",
-            "title": "A battle over the future of US retirement is playing out in Pennsylvania as the election looms",
-            "description": "Pennsylvania is among the top states with the fastest-growing older population. It sets the stage for what retirement will look like in the US.",
-            "url": "https://www.businessinsider.com/retirement-pennsylvania-social-security-medicare-trump-harris-election-2024-10",
-            "urlToImage": "https://i.insider.com/67126b7501ea6d83dee22644?width=1200&format=jpeg",
-            "publishedAt": "2024-10-26",
-            "content": "Maureen, 67, is planning to vote for former President Donald Trump in November because she believes he'll be more beneficial to her finances now that she's retired.\r\nThe northeast Pennsylvania reside\u2026 [+9706 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "fdemott@insider.com (Filip De Mott)",
-            "title": "Legendary investor Paul Tudor Jones says he's buying gold and bitcoin pre-election because inflation will rise under both Trump and Harris",
-            "description": "\"The playbook to get out of this is that you inflate your way out,\" Jones said about America's ballooning national debt.",
-            "url": "https://markets.businessinsider.com/news/commodities/paul-tudor-jones-gold-crypto-bitcoin-election-inflation-debt-crisis-2024-10",
-            "urlToImage": "https://i.insider.com/6717cb66a0a0cc14f222fe8a?width=1200&format=jpeg",
+            "author": "Mike Fazioli",
+            "title": "Apple AirTags Price Drop and the Best Investment for Your Belongings This Holiday Season",
+            "description": "Take up to 19% off the price of the tracking tags that have become a must-have for wallets, keys, luggage, and more.",
+            "url": "https://gizmodo.com/apple-airtags-price-drop-and-the-best-investment-for-your-belongings-this-holiday-season-2000514982",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-AirTag-4-pack.jpg",
             "publishedAt": "2024-10-22",
-            "content": "Paul Tudor Jones is holding gold, bitcoin, and commodities to hedge against inflation, as neither presidential candidate has a plan suitable for tackling US debt, the legendary investor said.\r\nThe bi\u2026 [+2252 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "insider@insider.com (Mark Healy,Andrew Thompson)",
-            "title": "How we crunched the numbers",
-            "description": "How we crunched the numbers for our story about what cars America drives.",
-            "url": "https://www.businessinsider.com/methodology-for-car-database-united-states-of-automobiles-2024-10",
-            "urlToImage": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
-            "publishedAt": "2024-10-20",
-            "content": "To assemble our database, we looked at all 1.7 million car listings on cargurus.com from August 2 to December 16, 2023. The local popularity of vehicles was ranked not by a model's total number of li\u2026 [+1276 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "insider@insider.com (Mark Healy,Nora Naughton,Andrew Thompson)",
-            "title": "Red car, blue car: see where your ride ranks on the political spectrum",
-            "description": "Is your car more Democratic or Republican? We analyzed 1.7 million car listings to find out.",
-            "url": "https://www.businessinsider.com/car-models-owned-by-republicans-democrats-american-politics-jeep-2024-10",
-            "urlToImage": "https://i.insider.com/67092325a703186492812382?width=1200&format=jpeg",
-            "publishedAt": "2024-10-20",
-            "content": "In these divided times, everything is political, from the news we consume to the fast food we binge. But consciously or unconsciously, no consumer choice says \"us vs. them\" more than what car we choo\u2026 [+3930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Luke Garrett",
-            "title": "Americans bet $100 million on Trump v. Harris, but at what cost?",
-            "description": "Political prognosticators legally bet over $100 million on the 2024 presidential election, favoring Harris over Trump.",
-            "url": "https://www.npr.org/2024/10/29/nx-s1-5132616/election-day-betting-trump-harris",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2Fc5%2F3051dcff4bcaa919ab54ecc569b4%2Fgettyimages-2181524866.jpg",
-            "publishedAt": "2024-10-30",
-            "content": "An election betting advertisement flashed on screen during coverage of former President Donald Trump's rally at Madison Square Garden this weekend on the Right Side Broadcasting Network, a conservati\u2026 [+6384 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Scott Detrow",
-            "title": "Why are some Evangelicals drawn to \u2014 and sticking by \u2014 Trump? This pastor weighs in",
-            "description": "NPR sits down with North Carolina pastor Chad Harvey to talk about Donald Trump, religion and politics.",
-            "url": "https://www.npr.org/2024/10/29/nx-s1-5165535/trump-christians-evangelical-harris-support",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F29%2F5468d1c642249f649988259b2f66%2Fnpr-northcarolina-day1-055.jpg",
-            "publishedAt": "2024-10-30",
-            "content": "On a late October evening in North Carolina's capital city, a massive stage in a dark auditorium is backlit by tall screens, and bass-thumping music and vocals are filling the space.\r\nThere's a table\u2026 [+7548 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "NPR Washington Desk",
-            "title": "Trump, using violent language, attacks 'war hawk' Liz Cheney",
-            "description": "\"Let's see how she feels about it, you know, when the guns are trained on her face,\" Trump said while criticizing Cheney's support of the U.S.-led conflicts in the Middle East.",
-            "url": "https://www.npr.org/2024/11/01/g-s1-31443/trump-liz-cheney",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6164x3467+0+321/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F9f%2F317d420441eba5c3a9647ea10bcb%2Fgettyimages-2179760093.jpg",
-            "publishedAt": "2024-11-01",
-            "content": "Former President Donald Trump lashed out against former GOP Rep. Liz Cheney in Arizona on Thursday, using violent language and insults to describe the most prominent Republican supporter of his oppon\u2026 [+1675 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Hansi Lo Wang",
-            "title": "The stark divide between Harris and Trump on voting rights",
-            "description": "Harris wants to make it easier for eligible voters to cast ballots and rebuild Voting Rights Act protections against racial discrimination, while Trump pushes for more restrictions to voting access.",
-            "url": "https://www.npr.org/2024/10/13/nx-s1-5150093/kamala-harris-voting-rights-trump",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4969x2795+0+152/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Ffe%2F941f8e8a403cac64f3b256666865%2Fgettyimages-2170596408.jpg",
-            "publishedAt": "2024-10-13",
-            "content": "The future of voting rights in the U.S. is on this falls ballot with the two major party candidates for president offering two starkly different paths.\r\nVice President Harris, the Democratic nominee,\u2026 [+5379 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Roberta Rampton",
-            "title": "Harris releases medical report, drawing another contrast with Trump",
-            "description": "The two-page letter says that Vice President Harris is in excellent health and has \u201cthe physical and mental resiliency required to successfully execute the duties of the presidency.\u201d",
-            "url": "https://www.npr.org/2024/10/12/g-s1-28012/harris-releases-medical-report-drawing-another-contrast-with-trump",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5637x3171+0+294/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2F4d%2F2ea5bfb740928bc93bf684700145%2Fgettyimages-2177238240.jpg",
-            "publishedAt": "2024-10-12",
-            "content": "Vice President Harris on Saturday released a medical report, a document that her campaign will use to try to draw another contrast with former President Donald Trump.\r\nThis is the first time Harris, \u2026 [+2582 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "NPR Washington Desk",
-            "title": "Trump, using violent language, attacks 'war hawk' Liz Cheney",
-            "description": "\"Let's see how she feels about it, you know, when the guns are trained on her face,\" Trump said while criticizing Cheney's support of the U.S.-led conflicts in the Middle East.",
-            "url": "https://www.npr.org/2024/11/01/g-s1-31443/2024-election-trump-harris-cheney",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7151x4022+0+12/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F7a%2Fa5f494074856ad3c9689720f5347%2Fgettyimages-2181497326.jpg",
-            "publishedAt": "2024-11-01",
-            "content": "Former President Donald Trump lashed out against former GOP Rep. Liz Cheney in Arizona on Thursday, using violent language and insults to describe the most prominent Republican supporter of his oppon\u2026 [+1786 chars]"
+            "content": "Don\u2019t deny it, you misplace your keys a few times a week. It\u2019s fine, we all do. Since their release in 2021 the must-have accessory for keeping tabs on keys, wallets, luggage, or even your kids has b\u2026 [+2375 chars]"
         }
     ]
 }
