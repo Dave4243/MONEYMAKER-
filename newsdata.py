@@ -13,7 +13,7 @@ params = {
 }
 
 # Make a request to the API
-def generate_newsdata(url, parameters):
+def generate_newsdata(url=link, parameters=params):
     response = requests.get(url, params=parameters)
     data = response.json()
     
