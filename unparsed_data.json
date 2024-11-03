@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 48510,
+    "totalResults": 48498,
     "articles": [
         {
             "source": {
@@ -163,19 +163,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Makena Kelly",
-            "title": "Influencers Get Their Final Marching Orders for the Election",
-            "description": "The Trump and Harris campaigns have built huge networks of influencers and content creators. They have one last job\u2014getting people out to vote.",
-            "url": "https://www.wired.com/story/influencers-gop-and-democrats-ahead-of-election-day/",
-            "urlToImage": "https://media.wired.com/photos/67194aa038fa85cee9ab98a9/191:100/w_1280,c_limit/Politics_Newsletter_election_influencers.jpg",
-            "publishedAt": "2024-10-24",
-            "content": "Guerrero said that possible opportunities would be jumping on a campaign bus touring Las Vegas and speaking to voters about reproductive rights or to go door-knocking in battleground states. It sound\u2026 [+2575 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Zach Dorfman",
             "title": "The Untold Story of Trump's Failed Attempt to Overthrow Venezuela's President",
             "description": "A successful CIA hack of Venezuela's military payroll system, insider fights for spy agency resources, and messy opposition politics: A WIRED investigation reveals a secret Trump-era attempt to oust autocratic ruler Nicol\u00e1s Maduro.",
@@ -183,19 +170,6 @@
             "urlToImage": "https://media.wired.com/photos/67210d7362bc507a4f04fe8b/191:100/w_1280,c_limit/OPENING_FINAL_01_web.jpg",
             "publishedAt": "2024-10-31",
             "content": "On September 26, 2018, Venezuelan president Nicol\u00e1s Maduro approached the lectern at the United Nations General Assembly in New York City. Hulking and mustachioed, wearing a black suit and a bright r\u2026 [+2585 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "James Fallows",
-            "title": "After the Election, California (Yes, That Hellscape) Will Keep Moving the World Forward No Matter What",
-            "description": "The state has been written off as a woke wasteland. But it's still inventing the future on a bunch of frontiers nobody's talking about. Even if Trump wins, it will remain a golden, global example.",
-            "url": "https://www.wired.com/story/california-will-keep-moving-the-world-forward/",
-            "urlToImage": "https://media.wired.com/photos/67210b73fdc82da59d1ddbb8/191:100/w_1280,c_limit/CAF_Lindsey_Price_FINAL.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Just take the area of gasoline-powered transportation. After World War II, when American car culture was famously getting minted in Southern California, the state used a gas tax hike to build out one\u2026 [+5644 chars]"
         },
         {
             "source": {
@@ -264,16 +238,29 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Tess Owen, Dell Cameron",
-            "title": "US Intel Says Insider Threats Are 'Likely' During the Election",
-            "description": "A government memo viewed by WIRED states that insider threats \u201ccould derail or jeopardize a fair and transparent election process.\u201d",
-            "url": "https://www.wired.com/story/insider-threats-election/",
-            "urlToImage": "https://media.wired.com/photos/671bd7741b81965dc9ebb535/191:100/w_1280,c_limit/election_threats_pol.jpg",
+            "author": "Matthew Gault",
+            "title": "Musk Screams at Trump Rally as Philly DA Sues to Stop $1 Million Voter Giveaway",
+            "description": "The lawsuit is the first official legal action against the billionaire's election lottery scheme.",
+            "url": "https://gizmodo.com/musk-screams-at-trump-rally-as-philly-da-sues-to-stop-1-million-voter-giveaway-2000517357",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskScream.jpg",
             "publishedAt": "2024-10-28",
-            "content": "Insider threats will likely be an issue that election centers across the US will face in the coming weeks, according to a US intelligence memo viewed by WIRED. These threats, the memo warns, could de\u2026 [+2354 chars]"
+            "content": "On Sunday night, billionaire Elon Musk did two pathetic little Dean Screams for a crowd of MAGA voters in Madison Square Garden. On Monday morning, Philadelphia District Attorney Larry Krasner filed \u2026 [+2631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Trump Media Execs Reportedly Quit Amid Complaints About CEO Devin Nunes",
+            "description": "Allegations surrounding \"misuse of funds, hiring of foreign contractors and interfering with product development\" are flying.",
+            "url": "https://gizmodo.com/trump-media-execs-reportedly-quit-amid-complaints-about-ceo-devin-nunes-2000507581",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/devin-nunes-donald-trump-july-17-2024.jpg",
+            "publishedAt": "2024-10-04",
+            "content": "At least four employees at Donald Trump\u2019s media company Trump Media &amp; Technology Group, which owns Truth Social, have left the company recently according to a new report from ProPublica, The news\u2026 [+4426 chars]"
         },
         {
             "source": {
@@ -342,42 +329,42 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Gaby Del Valle",
-            "title": "Trump\u2019s crypto website crashed after its token went on sale",
-            "description": "A co-founder of World Liberty Financial, Trump\u2019s decentralized finance platform, claimed more than 100,000 accredited investors signed up for the whitelist, but most haven\u2019t bought the token.",
-            "url": "https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/VnGw9t2CWLMuJgal2cKUuFGoEfU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951553/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg",
-            "publishedAt": "2024-10-15",
-            "content": "Trumps crypto website crashed after its token went on sale\r\nTrumps crypto website crashed after its token went on sale\r\n / Only two percent of the 20 billion tokens available for public sale have bee\u2026 [+2659 chars]"
+            "author": "Eve Crosbie",
+            "title": "What the Trump biopic 'The Apprentice' got right, and what's fiction",
+            "description": "The new Donald Trump biopic, which opened in US theaters on October 11, sees Marvel star Sebastian Stan portray a young Trump.",
+            "url": "https://www.businessinsider.com/the-apprentice-donald-trump-biopic-fact-fiction-movie-2024-10",
+            "urlToImage": "https://i.insider.com/67096b7ca703186492815bd2?width=1200&format=jpeg",
+            "publishedAt": "2024-10-19",
+            "content": "Sebastian Stan transforms into Donald Trump in \"The Apprentice.\"Briarcliff Entertainment\r\n<ul><li>Warning: Spoilers ahead for \"The Apprentice,\" the new Donald Trump biopic.</li><li>The controversial \u2026 [+8068 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Andrew J. Hawkins",
-            "title": "The bill finally comes due for Elon Musk",
-            "description": "Tesla CEO Elon Musk is finally forced to stop hiding behind his bluster and show off a real autonomous vehicle. Anything less would be a disaster.",
-            "url": "https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/UTFYAIWx1CsXE6oKzXfSIOu2rXQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25663397/STKE001_STK086_Tesla_Robotaxi_D.jpg",
-            "publishedAt": "2024-10-09",
-            "content": "Image: Cath Virginia / The Verge, Turbosquid\r\n\n \n\n\n The Tesla CEO has long promised \u2014 and failed to deliver \u2014\u00a0a fully autonomous vehicle. With this week\u2019s robotaxi reveal, his time is up. For almost \u2026 [+16028 chars]"
+            "author": "Talia Lakritz",
+            "title": "Ivanka Trump has been absent from the 2024 campaign trail. Here's what she's been up to.",
+            "description": "Ivanka Trump stepped back from politics when Donald Trump launched his 2024 campaign and has largely returned to her previous life as a socialite.",
+            "url": "https://www.businessinsider.com/ivanka-trump-donald-trump-campaign-photos-2024-10",
+            "urlToImage": "https://i.insider.com/67196640a0a0cc14f22377d5?width=1200&format=jpeg",
+            "publishedAt": "2024-10-24",
+            "content": "Ivanka Trump is no longer active in politics.JB Lacroix/Contributor/Getty Images\r\n<ul><li>Ivanka Trump stepped back from politics when Donald Trump launched his 2024 campaign.</li><li>She returned to\u2026 [+9252 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Matthew Gault",
-            "title": "Elon Musk Leaps Into the Meme History Books at Trump Rally",
-            "description": "Two photos from the event where Musk stumped for Trump became iconic fodder for the internet.",
-            "url": "https://gizmodo.com/elon-musk-leaps-into-the-meme-history-books-at-trump-rally-2000508235",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskLeaping.jpg",
-            "publishedAt": "2024-10-07",
-            "content": "October has already been full of surprises this election cycle. But when Elon Musk announced he would join Donald Trump on stage Saturday at a rally in Butler, Pennsylvania, no one expected the billi\u2026 [+2154 chars]"
+            "author": "Lucas Ropek",
+            "title": "Justice Department Says It Has Received Complaints About Elon Musk\u2019s $1 Million Payments to Voters",
+            "description": "Is the tech billionaire breaking the law? We may soon find out.",
+            "url": "https://gizmodo.com/justice-department-says-it-has-received-complaints-about-elon-musks-1-million-payments-to-voters-2000515069",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Elon-Musk-holds-at-town-hall-in-Folsom-Pennsylvania.jpg",
+            "publishedAt": "2024-10-22",
+            "content": "Despite the fact that, in the U.S., it is illegal to pay someone to vote, not vote, or register to vote, Elon Musk has been making it rain on the American electorate. It all started approximately two\u2026 [+4167 chars]"
         },
         {
             "source": {
@@ -421,15 +408,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "BBC News"
             },
-            "author": "Matthew Gault",
-            "title": "Trump Spends 39 Minutes on Stage Listening to His Beloved Spotify Playlist",
-            "description": "After two people in the crowd fainted, Trump decided to turn his latest rally into a 'music fest.'",
-            "url": "https://gizmodo.com/trump-spends-39-minutes-on-stage-listening-to-his-beloved-spotify-playlist-2000511970",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/TrumpVibing.jpg",
-            "publishedAt": "2024-10-15",
-            "content": "The Doobie Brothers sang Listen to the music as the crowd shuffled into the town hall last night at Oaks, Pennsylvania. It was a prophetic tune. Following two medical emergencies in the crowd, Trump \u2026 [+2280 chars]"
+            "author": null,
+            "title": "Joker sequel suffers $33m collapse at box office",
+            "description": "The film, which has received mixed reviews, falls to third spot in its second week on the chart.",
+            "url": "https://www.bbc.com/news/articles/c1k7y9w4n12o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ab43/live/a614f150-8a28-11ef-b6b0-c9af5f7f16e4.jpg",
+            "publishedAt": "2024-10-14",
+            "content": "Joker: Folie \u00e0 Deux has plunged from the top of the North American box office, suffering a massive 80% drop from last weekends chart-topping debut of $30m (\u00a322.97m) to just $7.1m.\r\nThat is a record c\u2026 [+1533 chars]"
         },
         {
             "source": {
@@ -472,16 +459,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Matthew Gault",
-            "title": "With Putin Calls, It\u2019s More Clear Than Ever That Elon Musk Is a National Security Threat",
-            "description": "The billionaire has been chatting with Russia's authoritarian leader for years while he stumps for Trump and commands huge government contracts.",
-            "url": "https://gizmodo.com/with-putin-calls-its-more-clear-than-ever-that-elon-musk-is-a-national-security-threat-2000516544",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskAmerica.jpg",
-            "publishedAt": "2024-10-25",
-            "content": "Its been a wild few days for tech billionaire Elon Musk. On Wednesday, the Justice Department warned him that his $1 million giveaway to swing state voters might be illegal. And then on Thursday The \u2026 [+4898 chars]"
+            "author": "Tess Owen, Dell Cameron",
+            "title": "US Intel Says Insider Threats Are 'Likely' During the Election",
+            "description": "A government memo viewed by WIRED states that insider threats \u201ccould derail or jeopardize a fair and transparent election process.\u201d",
+            "url": "https://www.wired.com/story/insider-threats-election/",
+            "urlToImage": "https://media.wired.com/photos/671bd7741b81965dc9ebb535/191:100/w_1280,c_limit/election_threats_pol.jpg",
+            "publishedAt": "2024-10-28",
+            "content": "Insider threats will likely be an issue that election centers across the US will face in the coming weeks, according to a US intelligence memo viewed by WIRED. These threats, the memo warns, could de\u2026 [+2354 chars]"
         },
         {
             "source": {
@@ -550,29 +537,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Matthew Gault",
-            "title": "Musk Screams at Trump Rally as Philly DA Sues to Stop $1 Million Voter Giveaway",
-            "description": "The lawsuit is the first official legal action against the billionaire's election lottery scheme.",
-            "url": "https://gizmodo.com/musk-screams-at-trump-rally-as-philly-da-sues-to-stop-1-million-voter-giveaway-2000517357",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskScream.jpg",
-            "publishedAt": "2024-10-28",
-            "content": "On Sunday night, billionaire Elon Musk did two pathetic little Dean Screams for a crowd of MAGA voters in Madison Square Garden. On Monday morning, Philadelphia District Attorney Larry Krasner filed \u2026 [+2631 chars]"
+            "author": "Robert Leslie,Teresa Zhang,Sarah Wyman",
+            "title": "How election polls are actually getting better",
+            "description": "When pollsters failed to see the surge of support for Donald Trump in 2016 and 2020, it seemed like a low point for the political survey industry.",
+            "url": "https://www.businessinsider.com/how-election-polls-are-actually-getting-better-2024-10",
+            "urlToImage": "https://i.insider.com/67125ff4a0a0cc14f221f487?width=1200&format=jpeg",
+            "publishedAt": "2024-10-18",
+            "content": "When pollsters failed to see the surge of support for Donald Trump in 2016 and 2020, it seemed like a low point for the industry. But in fact, surveys are getting more accurate, as a look through the\u2026 [+60 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Matt Novak",
-            "title": "Trump Media Execs Reportedly Quit Amid Complaints About CEO Devin Nunes",
-            "description": "Allegations surrounding \"misuse of funds, hiring of foreign contractors and interfering with product development\" are flying.",
-            "url": "https://gizmodo.com/trump-media-execs-reportedly-quit-amid-complaints-about-ceo-devin-nunes-2000507581",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/devin-nunes-donald-trump-july-17-2024.jpg",
-            "publishedAt": "2024-10-04",
-            "content": "At least four employees at Donald Trump\u2019s media company Trump Media &amp; Technology Group, which owns Truth Social, have left the company recently according to a new report from ProPublica, The news\u2026 [+4426 chars]"
+            "author": "John L. Dorman",
+            "title": "Melania Trump says she 'couldn't believe it' when Arizona was called 'so early' for Biden in 2020",
+            "description": "Former first lady Melania Trump in her new memoir questioned how Fox News was able to call Arizona for Biden \"so early\" on election night.",
+            "url": "https://www.businessinsider.com/melania-donald-trump-arizona-results-2020-election-biden-2024-10",
+            "urlToImage": "https://i.insider.com/67056112198738e3a70f142d?width=1200&format=jpeg",
+            "publishedAt": "2024-10-08",
+            "content": "Former first lady Melania Trump in her new memoir raised concerns about the 2020 election.Jason Almond/Los Angeles Times via Getty Images\r\n<ul><li>Melania Trump in her new book questioned the early A\u2026 [+3461 chars]"
         },
         {
             "source": {
@@ -602,16 +589,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Tom Maxwell",
-            "title": "Justice Department Warns Elon Musk That His $1 Million Voter Giveaway Might Be Illegal",
-            "description": "Another legal issue to toss into the pile that he'll just ignore.",
-            "url": "https://gizmodo.com/justice-department-warns-elon-musk-that-his-1-million-voter-giveaway-might-be-illegal-2000515756",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2178881753.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "It seems that the Justice Department is exploring the legality of Elon Musk\u2019s gambit to give away a million dollars every day to registered voters who sign a petition in supporting of the First and S\u2026 [+3290 chars]"
+            "author": "Ana Altchek",
+            "title": "Tesla ends the week on a high fueled by earnings 'surprise'",
+            "description": "\"The negative narrative was proven to be 100% wrong,\" Global Equities analyst Trip Chowdhry said of worry over Elon Musk's support for Donald Trump.",
+            "url": "https://www.businessinsider.com/tesla-stock-price-ends-week-high-after-earnings-2024-10",
+            "urlToImage": "https://i.insider.com/671ba6d19b3250dbbcea13e1?width=1200&format=jpeg",
+            "publishedAt": "2024-10-26",
+            "content": "Analysts say the element of surprise may have been a factor in Tesla's stock surge this week.Frederic J. Brown/Getty\r\n<ul><li>Tesla stock has surged since the company reported earnings on Wednesday.<\u2026 [+2842 chars]"
         },
         {
             "source": {
@@ -628,16 +615,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Matt Novak",
-            "title": "Scammy Ads on Facebook and Instagram Viewed 900 Million Times: Report",
-            "description": "What a garbage heap.",
-            "url": "https://gizmodo.com/scammy-ads-on-facebook-and-instagram-viewed-900-million-times-report-2000518931",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/mark-zuckberberg-getty.jpg",
-            "publishedAt": "2024-10-31",
-            "content": "Facebook, an internet machine that turns lies into money, is absolutely swimming in scammers who buy ads with political messages, according to a new report from ProPublica. The fact that Meta\u2019s platf\u2026 [+4950 chars]"
+            "author": "Jaures Yip",
+            "title": "Elon Musk might have to convince Trump not to 'stop' autonomous vehicles if he's reelected",
+            "description": "During his remarks given to the Detroit Economic Club, Trump said he found autonomous vehicles \"concerning\" and promised to \"stop\" them.",
+            "url": "https://www.businessinsider.com/elon-musk-convince-trump-not-to-stop-autonomous-vehicles-2024-10",
+            "urlToImage": "https://i.insider.com/67092797a7031864928124ad?width=1200&format=jpeg",
+            "publishedAt": "2024-10-11",
+            "content": "Elon Musk is set to join Donald Trump as he returns to Butler, Pennsylvania.Susan Walsh/AP. Evan Vucci/AP.\r\n<ul><li>Elon Musk revealed Tesla's new robotaxis hours after Trump said he would \"stop\" AVs\u2026 [+1935 chars]"
         },
         {
             "source": {
@@ -654,16 +641,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Lucas Ropek",
-            "title": "Justice Department Says It Has Received Complaints About Elon Musk\u2019s $1 Million Payments to Voters",
-            "description": "Is the tech billionaire breaking the law? We may soon find out.",
-            "url": "https://gizmodo.com/justice-department-says-it-has-received-complaints-about-elon-musks-1-million-payments-to-voters-2000515069",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Elon-Musk-holds-at-town-hall-in-Folsom-Pennsylvania.jpg",
+            "author": "Kevin Reilly,Dylan Brzezinski",
+            "title": "How the Secret Service actually works, according to a former special agent",
+            "description": "Kenneth Valentine served in the US Secret Service for 24 years.  He discusses the assassination attempts on former President Donald Trump.",
+            "url": "https://www.businessinsider.com/how-secret-service-actually-works-former-agent-2024-10",
+            "urlToImage": "https://i.insider.com/67169567a0a0cc14f222a91b?width=1200&format=jpeg",
             "publishedAt": "2024-10-22",
-            "content": "Despite the fact that, in the U.S., it is illegal to pay someone to vote, not vote, or register to vote, Elon Musk has been making it rain on the American electorate. It all started approximately two\u2026 [+4167 chars]"
+            "content": "Kenneth Valentine served as a special agent in the US Secret Service for 24 years. He protected three sitting presidents: Bill Clinton, George W. Bush, and Barack Obama.Valentine gives insight into w\u2026 [+626 chars]"
         },
         {
             "source": {
@@ -694,15 +681,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "NPR"
             },
-            "author": "Matthew Gault",
-            "title": "Meta Bans Accounts Tracking Private Jets of Celebs and Russian Oligarchs",
-            "description": "The social media giant banned dozens of accounts that posting publicly available information, citing the harm they posed to celebrities.",
-            "url": "https://gizmodo.com/meta-bans-accounts-tracking-private-jets-of-celebs-and-russian-oligarchs-2000514958",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MarkZuckerberg.jpg",
-            "publishedAt": "2024-10-22",
-            "content": "On Monday, Meta banned dozens of accounts that report publicly available information tracking the jets of celebrities on Instagram and Threads. It banned a total of 38 accounts run by Jack Sweeney, a\u2026 [+2852 chars]"
+            "author": "Rachel Treisman",
+            "title": "It's not just D.C.: Satirical Trump statues are appearing in cities across the U.S.",
+            "description": "Trump statues appeared next to sculptures of nude women in Portland and Philadelphia. The plaques bear the title In Honor of a Lifetime of Sexual Assault and quote Trump's Access Hollywood remarks.",
+            "url": "https://www.npr.org/2024/10/31/nx-s1-5173569/trump-statues-portland-philadelphia-sexual-assault",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5792x3258+0+301/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F8d%2Fc3de06e049fd870a7a2496e7881f%2Fgettyimages-2181374385.jpg",
+            "publishedAt": "2024-10-31",
+            "content": "Divisive statues mocking former President Donald Trump arent just sprouting up in Washington, D.C\r\n.: Similar structures have spread to other cities in recent days.\r\nLast week, two bronze-colored sta\u2026 [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Laura Italiano",
+            "title": "Lawyer who twice grilled Trump in NY fraud case now helps lead a 14-state war on 'addictive' TikTok",
+            "description": "Fourteen states filed separate lawsuits Tuesday alleging TikTok harms children's mental health. Only New York has Kevin Wallace.",
+            "url": "https://www.businessinsider.com/ny-ag-letitia-james-stealth-trump-fraud-tiktok-2024-10",
+            "urlToImage": "https://i.insider.com/6705b07d3f2165d716df6790?width=1200&format=jpeg",
+            "publishedAt": "2024-10-08",
+            "content": "Senior Counsel Kevin Wallace of the New York Attorney General's Office makes opening statements at the 2023 civil fraud trial of former President Donald Trump.Jane Rosenberg/Reuters\r\n<ul><li>Fourteen\u2026 [+3736 chars]"
         },
         {
             "source": {
@@ -720,54 +720,54 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "NPR"
             },
-            "author": "Matt Novak",
-            "title": "Elon Musk Hilariously Claims Tesla Cybercab Will Be Available In 2-3 Years",
-            "description": "The billionaire has made these kinds of promises before. Many times.",
-            "url": "https://gizmodo.com/elon-musk-hilariously-claims-tesla-cybercab-will-be-available-in-2-3-years-2000510844",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tesla-robotaxi-cycbercab-1024x576.gif",
-            "publishedAt": "2024-10-11",
-            "content": "Elon Musk unveiled Tesla\u2019s autonomous robotaxi, now known as the Cybercab, at the Warner Bros. studio in Burbank, California on Thursday night. And tell me if you\u2019ve heard this one before, but the bi\u2026 [+7855 chars]"
+            "author": "Greg Allen",
+            "title": "Florida fighting with the U.S. Justice Department over prosecuting Ryan Routh",
+            "description": "Florida\u2019s Attorney General is asking a federal judge to allow the state to prosecute Ryan Routh, the man accused of attempting to assassinate former President Donald Trump at his golf club.",
+            "url": "https://www.npr.org/2024/10/24/nx-s1-5163518/florida-prosecute-alleged-trump-assassin-ryan-routh",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2200x1238+0+49/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F9f%2F8678f3c14978a29cd3864d451915%2Fgettyimages-2171765772.jpg",
+            "publishedAt": "2024-10-24",
+            "content": "MIAMI Floridas Attorney General is asking a federal judge to stop the U.S. Justice Department from blocking the state from investigating and prosecuting Ryan Routh. Routh is charged with attempting t\u2026 [+2107 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "NPR"
             },
-            "author": "Matt Novak",
-            "title": "Fake Photos of Disney World Destroyed by Hurricane Milton Flood Social Media",
-            "description": "Russian state media and right-wing influencers on X helped share disinformation about Disney.",
-            "url": "https://gizmodo.com/fake-photos-of-disney-world-destroyed-by-hurricane-milton-flood-social-media-2000510410",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AI-Disney-World-Fake.jpg",
-            "publishedAt": "2024-10-10",
-            "content": "Walt Disney World in Orlando, Florida, shut down operations Wednesday night due to Hurricane Milton and the tornadoes that sprung up before the storm even made landfall. But if you\u2019re seeing photos o\u2026 [+5444 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "The EU\u2019s Fines Against Elon Musk May Be Much Larger Than Anticipated",
-            "description": "The European Union is making a decision that may cause any potential fines against Musk to skyrocket.",
-            "url": "https://gizmodo.com/the-eus-fines-against-elon-musk-may-be-much-larger-than-anticipated-2000513026",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskSad.jpg",
-            "publishedAt": "2024-10-17",
-            "content": "The European Union is considering levying fines against Elon Musk over his unwillingness to cooperate with an investigation into Xs moderation and advertising policies. According to a report from Blo\u2026 [+2388 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Todd Feathers",
-            "title": "The Biden Administration Touts Its Big Year in AI",
-            "description": "On the anniversary of President Biden's executive order on AI, the White House says it has met all its year-one goals.",
-            "url": "https://gizmodo.com/the-biden-administration-touts-its-big-year-in-ai-2000518407",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/biden-ai-executive-order.jpg",
+            "author": "Dave Davies",
+            "title": "How a little-known organization is poised to shape a second Trump administration",
+            "description": "New York Times reporter Ken Bensinger says the America First Policy Institute, which has nearly 300 executive orders ready to be signed, would influence a Trump second term more than Project 2025.",
+            "url": "https://www.npr.org/2024/10/30/g-s1-30917/how-a-little-known-organization-is-poised-to-shape-a-second-trump-administration",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
             "publishedAt": "2024-10-30",
-            "content": "The White House on Wednesday said that federal agencies have completed all the tasks they committed to during the first year of the Biden administration\u2019s executive order on artificial intelligence.\r\u2026 [+2610 chars]"
+            "content": "NewYorkTimes reporter Ken Bensinger says the America First Policy Institute, which has nearly 300 executive orders ready to be signed, would influence a Trump second term more than Project 2025."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Terry Gross",
+            "title": "What do Elon Musk and other billionaires want in return for backing Trump?",
+            "description": "New Yorker writer Susan Glasser says Trump is highly transactional, so billionaires may be betting on access and a seat at the table if he\u2019s re-elected. It\u2019s what some of them got in his first term.",
+            "url": "https://www.npr.org/2024/10/22/g-s1-29323/what-do-elon-musk-and-other-billionaires-want-in-return-for-backing-trump",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+            "publishedAt": "2024-10-22",
+            "content": "New Yorker writer Susan Glasser says Trump is highly transactional, so billionaires may be betting on access and a seat at the table if hes re-elected. Its what some of them got in his first term."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Quinn Klinefelter",
+            "title": "After a chaotic vote count in 2020, here's what Detroit will do differently this year",
+            "description": "Four years ago, Trump supporters, motivated in part by false election fraud claims, loudly protested at a Detroit counting facility. Election officials are determined to avoid a repeat of the chaos.",
+            "url": "https://www.npr.org/2024/10/31/nx-s1-5161536/after-a-chaotic-vote-count-in-2020-heres-what-detroit-will-do-differently-this-year",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6586x3705+0+344/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2Fd5%2Feb019db94a2ea9572540a4e421a4%2Fgettyimages-1229462274.jpg",
+            "publishedAt": "2024-10-31",
+            "content": "DETROIT In 2020, what was then called the TCF Center became a tinderbox as Detroit poll workers counted the presidential election results.\r\nA crowd of Republican observers at the center grew increasi\u2026 [+4904 chars]"
         },
         {
             "source": {
@@ -784,16 +784,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Matt Novak",
-            "title": "Truth Social Users Are Losing Ridiculous Sums of Money to Scams",
-            "description": "Read the complaints submitted to the FTC by users of Donald Trump's social media platform.",
-            "url": "https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/donald-trump-october-3-2024.jpg",
-            "publishedAt": "2024-10-05",
-            "content": "Donald Trump launched Truth Social in 2022 as a social media platform where the MAGA faithful could hang out without any liberals to spoil the fun. The biggest selling point? It was the only place wh\u2026 [+30292 chars]"
+            "author": "Talia Lakritz",
+            "title": "Meet Miriam Adelson, the billionaire GOP donor who's given $100 million to support Donald Trump's campaign",
+            "description": "GOP megadonor Miriam Adelson is the widow of businessman Sheldon Adelson. Take a closer look at her wealth and political leanings.",
+            "url": "https://www.businessinsider.com/miriam-adelson-sheldon-adelson-net-worth-donald-trump-2024-10",
+            "urlToImage": "https://i.insider.com/671fab1ca0a0cc14f2245665?width=1024&format=jpeg",
+            "publishedAt": "2024-10-29",
+            "content": "Miriam Adelson with Donald Trump.JIM WATSON/AFP via Getty Images\r\n<ul><li>Miriam Adelson, 79, is the widow of casino magnate Sheldon Adelson.</li><li>The Adelsons donated hundreds of millions of doll\u2026 [+7271 chars]"
         },
         {
             "source": {
@@ -810,16 +810,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Adam Kovac",
-            "title": "Global Catastrophe Looms as Key Ocean Current Nears Collapse, Experts Warn",
-            "description": "While there have been signs the Atlantic Meridional Overturning Circulation has slowed, it could soon stop altogether. That would be very, very bad.",
-            "url": "https://gizmodo.com/global-catastrophe-looms-as-key-ocean-current-nears-collapse-experts-warn-2000515637",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/atlantic-ocean-current-collapse-open-letter-climate-change.jpg",
-            "publishedAt": "2024-10-23",
-            "content": "The collapse of one of the worlds most important ocean currents, a disaster that would wreak havoc on Earth\u2019s ecosystems, is generally considered unlikely. But in a newly issued open letter, leading \u2026 [+4357 chars]"
+            "author": "Polly Thompson",
+            "title": "Elon Musk hits the campaign trail in a key swing state after donating $75 million to a pro-Trump super PAC",
+            "description": "Elon Musk is giving a series of events in Pennsylvania this week. The Tesla and SpaceX CEO has donated more than $75 million to a pro-Trump super PAC.",
+            "url": "https://www.businessinsider.com/elon-musk-campaign-trail-pennsylvania-donald-trump-key-swing-state-2024-10",
+            "urlToImage": "https://i.insider.com/670f96686ac7b701e7cbf3ad?width=1200&format=jpeg",
+            "publishedAt": "2024-10-16",
+            "content": "Elon Musk has given nearly $75 million to his pro-Trump super PAC. JIM WATSON/AFP via Getty Images\r\n<ul><li>Elon Musk said he's headed to Pennsylvania to give a series of talks as the 2024 election n\u2026 [+2445 chars]"
         },
         {
             "source": {
@@ -836,21 +836,21 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Sherri L Smith",
-            "title": "Apple iPhone 16 vs Google Pixel 9: A Base Model Brawl",
-            "description": "Battery life, camera, and AI features are key in a base model battle between the Apple iPhone 16 and Google Pixel 9.",
-            "url": "https://gizmodo.com/apple-iphone-16-vs-google-pixel-9-a-base-model-brawl-2000513276",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iphone-16-vs-pixel-9-performance-e1729525796556.jpg",
-            "publishedAt": "2024-10-22",
-            "content": "Its face-off time, and you know what that means. Two smartphones go in, and one comes out the victor with plenty of bragging rights. This time around, were looking at a pair of entry-level smartphone\u2026 [+17150 chars]"
+            "author": "Grace Kay,Taylor Rains",
+            "title": "Flight logs show Elon Musk's private jets are busy hitting swing states as he campaigns for Trump",
+            "description": "Elon Musk's private planes made eight flights to and from Pennsylvania this past week.",
+            "url": "https://www.businessinsider.com/elon-musk-private-jet-hits-swing-states-campaigns-donald-trump-2024-10",
+            "urlToImage": "https://i.insider.com/67168afb01ea6d83dee2caba?width=1200&format=jpeg",
+            "publishedAt": "2024-10-21",
+            "content": "Elon Musk is campaigning for Donald Trump in Pennsylvania.Ryan Collerd/AFP via Getty Images\r\n<ul><li>Elon Musk's private planes made eight flights to Pennsylvania this past week, flight logs show.</l\u2026 [+4318 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "NPR"
             },
             "author": null,
             "title": "Seven takeaways from Trump's interview with Joe Rogan",
@@ -863,7 +863,7 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "The New Republic"
             },
             "author": null,
             "title": "How X users can earn thousands from US election misinformation and AI images",
@@ -876,7 +876,7 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
             "author": null,
             "title": "Ros Atkins on\u2026 Would Donald Trump accept defeat?",
@@ -889,7 +889,7 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Yahoo Entertainment"
             },
             "author": null,
             "title": "How this US election could change state of the world",
@@ -1135,8 +1135,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "abc-news",
+                "name": "ABC News"
             },
             "author": "abharade@insider.com (Aditi Bharade,Kwan Wei Kevin Tan)",
             "title": "Trump flip-flopped on crypto, but his PAC has raked in millions of dollars of crypto donations since June",
@@ -1148,8 +1148,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "abc-news",
+                "name": "ABC News"
             },
             "author": "ktangalakislippert@businessinsider.com (Katherine Tangalakis-Lippert)",
             "title": "Marc Andreessen and Ben Horowitz each donated $2.5 million to a pro-Donald Trump super PAC",
@@ -1161,8 +1161,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "abc-news",
+                "name": "ABC News"
             },
             "author": "jsor@businessinsider.com (Jennifer Sor)",
             "title": "The US economy is in for a double shock if Trump is elected president, Nobel economist Paul Krugman says",
@@ -1174,8 +1174,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "abc-news",
+                "name": "ABC News"
             },
             "author": "asheffey@businessinsider.com (Ayelet Sheffey)",
             "title": "A battle over the future of US retirement is playing out in Pennsylvania as the election looms",
@@ -1187,8 +1187,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "abc-news",
+                "name": "ABC News"
             },
             "author": "fdemott@insider.com (Filip De Mott)",
             "title": "Legendary investor Paul Tudor Jones says he's buying gold and bitcoin pre-election because inflation will rise under both Trump and Harris",
@@ -1200,8 +1200,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
             "author": "insider@insider.com (Mark Healy,Andrew Thompson)",
             "title": "How we crunched the numbers",
@@ -1213,8 +1213,8 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
             "author": "insider@insider.com (Mark Healy,Nora Naughton,Andrew Thompson)",
             "title": "Red car, blue car: see where your ride ranks on the political spectrum",
