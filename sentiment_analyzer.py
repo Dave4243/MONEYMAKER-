@@ -18,8 +18,13 @@ print(analyze_sentiment(sentence))
 # input map from date to array of headline/sentneces
 # for reach sentence, compute the sentiment of that sentence
 # average out the sentiments per each date
-# returns a map from date to number representing the sentiment for that day
-
+# returns a map from date to number representing the average sentiment for that day
+def map_sentiments(input_dict):
+  result = {}
+  for date, arr in input_dict:
+    total_sentiment = sum(analyze_sentiment(str) for str in arr)
+    result[date] = total_sentiment / len(arr)
+  return result
 
 # Then, we can compare this to the array of stock prices and create a plot
 # of stock price (y) to sentiment (x) per each day. Then, find the correlation.
