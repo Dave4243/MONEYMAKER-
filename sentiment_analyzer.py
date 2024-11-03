@@ -54,8 +54,8 @@ def plot_and_find_correlation(avg_sentiments_dict=data, stock_data_array=stock_d
   plt.title("Sentiment vs Stock Value Correlation")
   plt.show()
   return np.corrcoef(sentiments_array, stock_data_array)[0, 1]
-  
-plot_and_find_correlation()
+
+print("Correlation: " + str(plot_and_find_correlation()))
 
 # Even further, we could use a predictive model based on the data by calculating
 # the mean change in the stock price based on the previous time's sentiments along
