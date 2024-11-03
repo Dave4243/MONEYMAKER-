@@ -1,10 +1,14 @@
 {
     "status": "ok",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "totalResults": 41798,
 =======
     "totalResults": 48495,
 >>>>>>> 132075e1a685ec810c6e2677f0759fa9522b869f
+=======
+    "totalResults": 48498,
+>>>>>>> 5e3fced7f5d423f7a5696888ac03b02667b58f2a
     "articles": [
         {
             "source": {
